@@ -72,7 +72,7 @@ for corpus_name in corpora:
         x = [item for sublist in x_raw for item in sublist]
 
         for model_type in model_types:
-            # print("Memroses corpus {}, fold {}, metode {}.".format(corpus_name, fold_counter, model_type))
+            print("Memroses corpus {}, fold {}, metode {}.".format(corpus_name, fold_counter, model_type))
 
             model = pickle.load(
                 open(get_model_path(corpus_name, model_type, fold_counter), "rb")
