@@ -7,7 +7,33 @@ import matplotlib.pyplot as plt
 
 sns.set(rc={'figure.figsize':(30,20)})
 
-labels = ['VBI', 'CDI', 'CON', '.', 'CDP', 'RP', 'IN', 'MD', 'DRB', 'PRL', 'NEG', 'TRB', 'DT', 'NN', 'UH', 'NNC', 'NNU', 'WPRB', ',', 'JJ', 'RB', 'WDT', 'PRP', 'NNG', 'VBT', 'NNP']
+pos_types = [
+    'VBI', 'CDI', 'CON', '.',
+    'CDP', 'RP', 'IN', 'MD',
+    'DRB', 'PRL', 'NEG', 'TRB',
+    'DT', 'NN', 'UH', 'NNC',
+    'NNU', 'WPRB', ',', 'JJ',
+    'RB', 'WDT', 'PRP', 'NNG',
+    'VBT', 'NNP'
+]
+
+def plot_report_confusion_matrix(y_pred: list, y_true: list, name: str, type: str, fold: int, labels=labels) -> None:
+    report_confusion_matrix = confusion_matrix(y_pred, y_true, labels=labels)
+
+    confusion_matrix_heatmap = sns.heatmap(
+        report_confusion_matrix,
+        annot=True,
+        xticklabels=labels,
+        yticklabels=labels,
+        cmap="YlGnBu",
+        linewidths=.3,
+        linecolor="black",
+        fmt=''
+    )
+
+    fig = confusion_matrix_heatmap.get_figure()
+    fig.savefig("./reports/{}-{}-{}".format(name, type, fold,))
+    plt.clf()
 
 for corpus_name in corpora:
     for fold_counter in range(1, N_FOLD + 1):
@@ -34,34 +60,10 @@ for corpus_name in corpora:
                 y_pred,
                 y_true,
                 zero_division=0,
-                output_dict=True
+                output_dict=True,
             ))
 
-            cm = confusion_matrix(y_pred, y_true, labels=labels)
-
-            heatmap = sns.heatmap(
-                cm,
-                annot=True,
-                xticklabels=labels,
-                yticklabels=labels,
-                cmap="YlGnBu",
-                linewidths=.3,
-                linecolor="black",
-                fmt=''
-            )
-            fig = heatmap.get_figure()
-            fig.savefig("./reports/{}-{}-{}".format(
-                corpus_name,
-                model_type,
-                fold_counter,
-            ))
-
-            plt.clf()
-
-            report.to_excel("./reports/{}-{}-{}.xlsx".format(
-                corpus_name,
-                model_type,
-                fold_counter
-            ))
+            plot_report_confusion_matrix(y_pred, y_true, corpus_name, model_type, fold_counter)
+            report.to_excel("./reports/{}-{}-{}.xlsx".format(corpus_name, model_type, fold_counter))
         pass
     pass
