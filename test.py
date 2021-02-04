@@ -19,18 +19,32 @@ pos_types = [
 
 pos_types_map = {pos_type: index for index, pos_type in enumerate(pos_types)}
 
-def plot_report_confusion_matrix(y_pred: list, y_true: list, name: str, type: str, fold: int, labels: list) -> None:
+def report_confusion_matrix(y_pred: list, y_true: list, name: str, type: str, fold: int, labels: list) -> None:
     report_confusion_matrix = confusion_matrix(y_pred, y_true, labels=labels)
     report_confusion_matrix_df = pd.DataFrame(report_confusion_matrix)
-    
-    print(report_confusion_matrix_df)
-
-
-    
-    pass
-
-
     row_sums = report_confusion_matrix_df.T.sum(axis=1).to_list()
+    
+    text = f'''[{name}-{type}-fold-{fold_counter}]\n'''
+    for row_pos_type in pos_types_map:
+        row_index = pos_types_map[row_pos_type]
+        text += f'''
+Untuk POS dengan jenis '{row_pos_type}', terdapat {row_sums[row_index]} token yang tergolong \
+ke dalam jenis tersebut.'''.strip() + ' '
+
+        temp = []
+        for col_pos_type in pos_types_map:
+            col_index = pos_types_map[col_pos_type]
+
+            temp.append("{count} diantaranya terklasifikasikan sebagai '{pos_type}'".format(
+                count = report_confusion_matrix_df[row_index][col_index],
+                pos_type = col_pos_type
+            ).strip())
+        text += ", ".join(temp[0:-1])
+        text += ", dan " + temp[-1] + ".\n"
+
+    with open("./reports/{}-{}-fold-{}.txt".format(name, type, fold), "w") as filehandle:
+        filehandle.write(text)
+
     x_labels = ["{} ({})".format(label, row_sums[index]) for index, label in enumerate(labels)]
     
     confusion_matrix_heatmap = sns.heatmap(
@@ -58,7 +72,7 @@ for corpus_name in corpora:
         x = [item for sublist in x_raw for item in sublist]
 
         for model_type in model_types:
-            print("Memroses corpus {}, fold {}, metode {}.".format(corpus_name, fold_counter, model_type))
+            # print("Memroses corpus {}, fold {}, metode {}.".format(corpus_name, fold_counter, model_type))
 
             model = pickle.load(
                 open(get_model_path(corpus_name, model_type, fold_counter), "rb")
@@ -78,7 +92,7 @@ for corpus_name in corpora:
                 output_dict=True,
             ))
 
-            plot_report_confusion_matrix(y_pred, y_true, corpus_name, model_type, fold_counter, labels=pos_types)
+            report_confusion_matrix(y_pred, y_true, corpus_name, model_type, fold_counter, labels=pos_types)
             report.to_excel("./reports/{}-{}-fold-{}.xlsx".format(corpus_name, model_type, fold_counter))
         pass
     pass
