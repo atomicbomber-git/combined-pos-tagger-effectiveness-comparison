@@ -17,10 +17,20 @@ pos_types = [
     'VBT', 'NNP'
 ]
 
+pos_types_map = {pos_type: index for index, pos_type in enumerate(pos_types)}
+
 def plot_report_confusion_matrix(y_pred: list, y_true: list, name: str, type: str, fold: int, labels: list) -> None:
     report_confusion_matrix = confusion_matrix(y_pred, y_true, labels=labels)
-    temp_df = pd.DataFrame(report_confusion_matrix)
-    row_sums = temp_df.T.sum(axis=1).to_list()
+    report_confusion_matrix_df = pd.DataFrame(report_confusion_matrix)
+    
+    print(report_confusion_matrix_df)
+
+
+    
+    pass
+
+
+    row_sums = report_confusion_matrix_df.T.sum(axis=1).to_list()
     x_labels = ["{} ({})".format(label, row_sums[index]) for index, label in enumerate(labels)]
     
     confusion_matrix_heatmap = sns.heatmap(
