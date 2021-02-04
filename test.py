@@ -17,7 +17,7 @@ pos_types = [
     'VBT', 'NNP'
 ]
 
-def plot_report_confusion_matrix(y_pred: list, y_true: list, name: str, type: str, fold: int, labels=labels) -> None:
+def plot_report_confusion_matrix(y_pred: list, y_true: list, name: str, type: str, fold: int, labels: list) -> None:
     report_confusion_matrix = confusion_matrix(y_pred, y_true, labels=labels)
 
     confusion_matrix_heatmap = sns.heatmap(
@@ -45,6 +45,8 @@ for corpus_name in corpora:
         x = [item for sublist in x_raw for item in sublist]
 
         for model_type in model_types:
+            print("Memroses corpus {}, fold {}, metode {}.".format(corpus_name, fold_counter, model_type))
+
             model = pickle.load(
                 open(get_model_path(corpus_name, model_type, fold_counter), "rb")
             )
@@ -63,7 +65,7 @@ for corpus_name in corpora:
                 output_dict=True,
             ))
 
-            plot_report_confusion_matrix(y_pred, y_true, corpus_name, model_type, fold_counter)
+            plot_report_confusion_matrix(y_pred, y_true, corpus_name, model_type, fold_counter, labels=pos_types)
             report.to_excel("./reports/{}-{}-{}.xlsx".format(corpus_name, model_type, fold_counter))
         pass
     pass

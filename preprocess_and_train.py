@@ -1,16 +1,21 @@
 #!/usr/bin/python
 
+from matplotlib.pyplot import annotate
 from nltk.corpus.reader.chasen import test
 from nltk.tag.sequential import BigramTagger, DefaultTagger, TrigramTagger
+import pandas
+from pandas.core.common import flatten
+import seaborn as sns
+from seaborn.palettes import color_palette
 from sklearn.model_selection import KFold
 from nltk.tag import UnigramTagger
 import numpy as np
-from sklearn.metrics import classification_report
 from pandas import DataFrame
 import pickle
 
-N_FOLD = 5
+sns.set(rc={'figure.figsize':(20,17)})
 
+N_FOLD = 5
 UNIGRAM_BIGRAM = "unigram_bigram"
 UNIGRAM_TRIGRAM = "unigram_trigram"
 UNIGRAM_BIGRAM_TRIGRAM = "unigram_bigram_trigram"
@@ -85,9 +90,44 @@ def unigram_bigram_trigram_tagger(train_sentences):
         )
     )
 
+def report_corpus(corpus: list, name: str):
+    pos_class_df = DataFrame([
+        pos for pos in
+        flatten([[part[1] for part in line] for line in corpus_data])
+    ], columns=["POS"])
+
+    grouped_by_pos_df = pos_class_df.groupby(
+        "POS"
+    ).size(
+    ).to_frame(
+        name="frequency"
+    ).reset_index(
+    ).sort_values(
+        by="frequency"
+    )
+
+    grouped_by_pos_df.to_excel("./reports/{}-class-stats.xlsx".format(
+        name
+    ))
+
+    sns.barplot(
+        data=grouped_by_pos_df,
+        x="frequency",
+        y="POS",
+        orient="h",
+        saturation=1
+    ).get_figure(
+    ).savefig(
+        "./reports/{}-corpus-barplot.png".format(name)
+    )
+    
+    pass
+
 if __name__ == "__main__":
     for corpus_name in corpora:
         corpus_data = deserialize_corpus_data(open(corpora[corpus_name], "r").readlines())
+        report_corpus(corpus_data, corpus_name)
+
         corpus_data = np.array(corpus_data, dtype=object)
 
         fold_counter = 1
