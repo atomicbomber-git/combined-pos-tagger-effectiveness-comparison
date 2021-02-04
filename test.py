@@ -5,7 +5,7 @@ import pickle
 import pandas as pd
 import matplotlib.pyplot as plt
 
-sns.set(rc={'figure.figsize':(30,20)})
+sns.set(rc={'figure.figsize':(40,20)})
 
 pos_types = [
     'VBI', 'CDI', 'CON', '.',
@@ -19,20 +19,23 @@ pos_types = [
 
 def plot_report_confusion_matrix(y_pred: list, y_true: list, name: str, type: str, fold: int, labels: list) -> None:
     report_confusion_matrix = confusion_matrix(y_pred, y_true, labels=labels)
-
+    temp_df = pd.DataFrame(report_confusion_matrix)
+    row_sums = temp_df.T.sum(axis=1).to_list()
+    x_labels = ["{} ({})".format(label, row_sums[index]) for index, label in enumerate(labels)]
+    
     confusion_matrix_heatmap = sns.heatmap(
         report_confusion_matrix,
         annot=True,
-        xticklabels=labels,
+        xticklabels=x_labels,
         yticklabels=labels,
-        cmap="YlGnBu",
+        cmap="OrRd",
         linewidths=.3,
         linecolor="black",
         fmt=''
     )
 
     fig = confusion_matrix_heatmap.get_figure()
-    fig.savefig("./reports/{}-{}-{}".format(name, type, fold,))
+    fig.savefig("./reports/{}-{}-fold-{}.svg".format(name, type, fold,))
     plt.clf()
 
 for corpus_name in corpora:
@@ -66,6 +69,6 @@ for corpus_name in corpora:
             ))
 
             plot_report_confusion_matrix(y_pred, y_true, corpus_name, model_type, fold_counter, labels=pos_types)
-            report.to_excel("./reports/{}-{}-{}.xlsx".format(corpus_name, model_type, fold_counter))
+            report.to_excel("./reports/{}-{}-fold-{}.xlsx".format(corpus_name, model_type, fold_counter))
         pass
     pass
