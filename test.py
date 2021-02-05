@@ -1,57 +1,75 @@
+from pandas.core.frame import DataFrame
 from preprocess_and_train import corpora, N_FOLD, get_test_data_path, get_model_path, deserialize_corpus_data, model_types
-from sklearn.metrics import classification_report, confusion_matrix
+from sklearn.metrics import classification_report
+from pycm import ConfusionMatrix
 import seaborn as sns
 import pickle
 import pandas as pd
 import matplotlib.pyplot as plt
 
-sns.set(rc={'figure.figsize':(40,20)})
+sns.set(rc={'figure.figsize':(40,40)})
 
-pos_types = [
-    'VBI', 'CDI', 'CON', '.',
-    'CDP', 'RP', 'IN', 'MD',
-    'DRB', 'PRL', 'NEG', 'TRB',
-    'DT', 'NN', 'UH', 'NNC',
-    'NNU', 'WPRB', ',', 'JJ',
-    'RB', 'WDT', 'PRP', 'NNG',
-    'VBT', 'NNP'
-]
+def report_confusion_matrix(
+    y_pred: list,
+    y_true: list,
+    corpus_name: str,
+    algorithm_name: str,
+    fold: int,
+) -> None:
+    confusion_matrix = ConfusionMatrix(
+        actual_vector=y_true,
+        predict_vector=y_pred,
+    )
 
-pos_types_map = {pos_type: index for index, pos_type in enumerate(pos_types)}
+    confusion_matrix_positions = DataFrame(confusion_matrix.position())
+    confusion_matrix_positions = confusion_matrix_positions.applymap(lambda positions: len(positions))
 
-def report_confusion_matrix(y_pred: list, y_true: list, name: str, type: str, fold: int, labels: list) -> None:
-    report_confusion_matrix = confusion_matrix(y_pred, y_true, labels=labels)
-    report_confusion_matrix_df = pd.DataFrame(report_confusion_matrix)
-    row_sums = report_confusion_matrix_df.T.sum(axis=1).to_list()
+    report = DataFrame(classification_report(
+        y_pred,
+        y_true,
+        zero_division=0,
+        output_dict=True,
+    ))
+
+    report_text = ""
+    for pos_class in confusion_matrix.classes:
+        tp = confusion_matrix_positions[pos_class]["TP"]
+        tn = confusion_matrix_positions[pos_class]["TN"]
+        fp = confusion_matrix_positions[pos_class]["FP"]
+        fn = confusion_matrix_positions[pos_class]["FN"]
+        accuracy = tp + tn / (tp + tn + fp + fn)
+
+        report_text += """
+Untuk pengujian pada fold ke-{fold_counter} dari algoritma {algorithm_name}, kelas '{pos_class}' memiliki nilai true positive (tp) = {tp:{int_format}}, true negative (tn) = {tn:{int_format}}, false positive (fp) = {fp:{int_format}}, false negative (fn) = {fn:{int_format}}. Nilai recall = tp / tp + fn = {recall:{dec_format}}, nilai precision = tp / tp + fp = {precision:{dec_format}}, nilai f1-score = 2tp / (2tp + fp + fn) = {f1_score:{dec_format}}, accuracy = tp + tn / tp + tn + fp + fn = {accuracy:{dec_format}}.
+""".format(
+    algorithm_name=algorithm_name,
+    pos_class=pos_class,
+    tn=tn,
+    fn=fn,
+    tp=tp,
+    fp=fp,
+    fold_counter=fold_counter,
+    precision=report[pos_class]["precision"],
+    recall=report[pos_class]["recall"],
+    f1_score=report[pos_class]["f1-score"],
+    accuracy=accuracy,
+    int_format="d",
+    dec_format=".4f",
+).strip()
     
-    text = f'''[{name}-{type}-fold-{fold_counter}]\n'''
-    for row_pos_type in pos_types_map:
-        row_index = pos_types_map[row_pos_type]
-        text += f'''
-Untuk POS dengan jenis '{row_pos_type}', terdapat {row_sums[row_index]} token yang tergolong \
-ke dalam jenis tersebut.'''.strip() + ' '
+    with open("./reports/{}-{}-fold-{}.txt".format(corpus_name, algorithm_name, fold_counter), "w") as report_filehandle:
+        report_filehandle.write(report_text)
 
-        temp = []
-        for col_pos_type in pos_types_map:
-            col_index = pos_types_map[col_pos_type]
+    pos_classes = confusion_matrix.classes
+    confusion_matrix_df = DataFrame(confusion_matrix.to_array())
+    row_sums = confusion_matrix_df.sum(axis=1).to_list()
 
-            temp.append("{count} diantaranya terklasifikasikan sebagai '{pos_type}'".format(
-                count = report_confusion_matrix_df[row_index][col_index],
-                pos_type = col_pos_type
-            ).strip())
-        text += ", ".join(temp[0:-1])
-        text += ", dan " + temp[-1] + ".\n"
-
-    with open("./reports/{}-{}-fold-{}.txt".format(name, type, fold), "w") as filehandle:
-        filehandle.write(text)
-
-    x_labels = ["{} ({})".format(label, row_sums[index]) for index, label in enumerate(labels)]
-    
+    x_labels = ["{} ({})".format(label, row_sums[index]) for index, label in enumerate(pos_classes)]    
     confusion_matrix_heatmap = sns.heatmap(
-        report_confusion_matrix,
+        confusion_matrix_df.T,
         annot=True,
         xticklabels=x_labels,
-        yticklabels=labels,
+        yticklabels=pos_classes,
         cmap="OrRd",
         linewidths=.3,
         linecolor="black",
@@ -59,7 +77,7 @@ ke dalam jenis tersebut.'''.strip() + ' '
     )
 
     fig = confusion_matrix_heatmap.get_figure()
-    fig.savefig("./reports/{}-{}-fold-{}.svg".format(name, type, fold,))
+    fig.savefig("./reports/{}-{}-fold-{}.svg".format(corpus_name, algorithm_name, fold,))
     plt.clf()
 
 for corpus_name in corpora:
@@ -92,7 +110,7 @@ for corpus_name in corpora:
                 output_dict=True,
             ))
 
-            report_confusion_matrix(y_pred, y_true, corpus_name, model_type, fold_counter, labels=pos_types)
+            report_confusion_matrix(y_pred, y_true, corpus_name, model_type, fold_counter)
             report.to_excel("./reports/{}-{}-fold-{}.xlsx".format(corpus_name, model_type, fold_counter))
         pass
     pass
