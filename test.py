@@ -7,7 +7,10 @@ import pickle
 import pandas as pd
 import matplotlib.pyplot as plt
 
-sns.set(rc={'figure.figsize':(40,40)})
+sns.set(
+    rc={'figure.figsize':(40,40)},
+    font="Monospace",
+)
 
 def report_confusion_matrix(
     y_pred: list,
@@ -65,15 +68,27 @@ Untuk pengujian pada fold ke-{fold_counter} dari algoritma {algorithm_name}, kel
     row_sums = confusion_matrix_df.sum(axis=1).to_list()
 
     x_labels = ["{} ({})".format(label, row_sums[index]) for index, label in enumerate(pos_classes)]    
+
+    temp_df = confusion_matrix_df.T
+
+    shape = temp_df.shape
+    annotations = [
+        [f'''{pos_classes[col]}\n{pos_classes[row]}\n{temp_df[row][col]}''' 
+            for col in range(0, shape[0])]
+                for row in range(0, shape[1])
+    ]
+
     confusion_matrix_heatmap = sns.heatmap(
         confusion_matrix_df.T,
-        annot=True,
+        annot=annotations,
         xticklabels=x_labels,
         yticklabels=pos_classes,
-        cmap="OrRd",
+        cmap="Greens",
+        square=True,
         linewidths=.3,
         linecolor="black",
-        fmt=''
+        fmt='',
+        cbar=False,
     )
 
     fig = confusion_matrix_heatmap.get_figure()

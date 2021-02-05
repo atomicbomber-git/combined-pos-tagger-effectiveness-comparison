@@ -3,7 +3,6 @@
 from matplotlib.pyplot import annotate
 from nltk.corpus.reader.chasen import test
 from nltk.tag.sequential import BigramTagger, DefaultTagger, TrigramTagger
-import pandas
 from pandas.core.common import flatten
 import seaborn as sns
 from seaborn.palettes import color_palette
@@ -13,7 +12,10 @@ import numpy as np
 from pandas import DataFrame
 import pickle
 
-sns.set(rc={'figure.figsize':(20,17)})
+sns.set(
+    rc={'figure.figsize':(20,17)},
+    font="Monospace",
+)
 
 N_FOLD = 5
 UNIGRAM_BIGRAM = "unigram_bigram"
@@ -110,15 +112,21 @@ def report_corpus(corpus: list, name: str):
         name
     ))
 
+    grouped_by_pos_df["POS"] = grouped_by_pos_df.apply(
+        lambda row: "{} ({})".format(row["POS"],
+        row["frequency"]), axis=1
+    )
+
     sns.barplot(
         data=grouped_by_pos_df,
         x="frequency",
         y="POS",
         orient="h",
-        saturation=1
+        saturation=1,
+        palette="tab10",
     ).get_figure(
     ).savefig(
-        "./reports/{}-corpus-barplot.png".format(name)
+        "./reports/{}-corpus-barplot.svg".format(name)
     )
     
     pass
