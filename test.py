@@ -8,7 +8,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 sns.set(
-    rc={'figure.figsize':(40,40)},
+    font_scale=0.65,
+    rc={'figure.figsize':(22,20)},
     font="Monospace",
 )
 
@@ -84,15 +85,17 @@ Untuk pengujian pada fold ke-{fold_counter} dari algoritma {algorithm_name}, kel
         xticklabels=x_labels,
         yticklabels=pos_classes,
         cmap="Greens",
-        square=True,
-        linewidths=.3,
+        linewidths=0.1,
         linecolor="black",
         fmt='',
         cbar=False,
     )
 
     fig = confusion_matrix_heatmap.get_figure()
-    fig.savefig("./reports/{}-{}-fold-{}.svg".format(corpus_name, algorithm_name, fold,))
+    fig.savefig(
+        "./reports/{}-{}-fold-{}.svg".format(corpus_name, algorithm_name, fold,),
+        bbox_inches='tight'
+    )
     plt.clf()
 
 for corpus_name in corpora:
