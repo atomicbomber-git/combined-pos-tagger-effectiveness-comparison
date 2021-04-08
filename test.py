@@ -56,10 +56,13 @@ def generate_and_save_report(
 
     pos_classes = confusion_matrix.classes
     confusion_matrix_df = DataFrame(confusion_matrix.to_array())
-    row_sums = confusion_matrix_df.sum(axis=1).to_list()
 
-    x_labels = ["{} ({})".format(label, row_sums[index])
-                for index, label in enumerate(pos_classes)]
+    row_sums = confusion_matrix_df.sum().to_list()
+
+    y_labels = pos_classes
+    x_labels = [
+        "{} ({})".format(label, row_sums[index]) for index, label in enumerate(pos_classes)
+    ]
 
     temp_df = confusion_matrix_df.T
 
@@ -71,10 +74,10 @@ def generate_and_save_report(
     ]
 
     confusion_matrix_heatmap = sns.heatmap(
-        confusion_matrix_df.T,
+        confusion_matrix_df,
         annot=annotations,
         xticklabels=x_labels,
-        yticklabels=pos_classes,
+        yticklabels=y_labels,
         cmap="Greens",
         linewidths=0.1,
         linecolor="black",
