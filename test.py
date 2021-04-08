@@ -40,8 +40,11 @@ def generate_and_save_report(
     confusion_matrix_positions = confusion_matrix_positions.applymap(
         lambda positions: len(positions))
 
+    pos_classes = confusion_matrix.classes
+    pos_classes.sort()
+
     report_text = ""
-    for pos_class in confusion_matrix.classes:
+    for pos_class in pos_classes:
         tp = confusion_matrix_positions[pos_class]["TP"]
         tn = confusion_matrix_positions[pos_class]["TN"]
         fp = confusion_matrix_positions[pos_class]["FP"]
@@ -54,7 +57,6 @@ def generate_and_save_report(
     with open("./reports/{}-{}-fold-{}.txt".format(corpus_name, algorithm_name, fold_counter), "w") as report_filehandle:
         report_filehandle.write(report_text)
 
-    pos_classes = confusion_matrix.classes
     confusion_matrix_df = DataFrame(confusion_matrix.to_array())
 
     row_sums = confusion_matrix_df.sum().to_list()
