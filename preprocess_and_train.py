@@ -29,7 +29,9 @@ model_types = [
 ]
 
 corpora = {
-    "corpus_1": "./corpora/corpus_1.txt"
+    "corpus_1500": "./corpora/korpus_tagging_1500.crp",
+    "corpus_1": "./corpora/corpus_1.txt",
+    # "corpus_wicaksono": "./corpora/korpus_wicaksono.crp",
 }
 
 def get_model_path(name, type, fold):
@@ -52,8 +54,21 @@ def pair_to_tuple(pair_text):
     return (token, pos)
 
 def deserialize_corpus_data(lines):
-    lines = [line.strip().split(" ") for line in lines]
-    return [[pair_to_tuple(part) for part in line] for line in lines]
+    try:
+        results = []
+        for index, line in enumerate(lines):
+            split_line = line.strip().split(" ")
+            split_parts = [pair_to_tuple(part) for part in split_line]
+            results.append(split_parts)
+        return results
+    except ValueError as value_error:
+        print("Gagal memroses baris {}: {}".format(
+            index + 1,
+            line,
+        ))
+        raise value_error
+        
+
 
 def save_corpus_data(path, data):
     with open(path, "w") as filehandle:
@@ -139,6 +154,9 @@ if __name__ == "__main__":
         corpus_data = np.array(corpus_data, dtype=object)
 
         fold_counter = 1
+
+        print("Memroses korpus {}...".format(corpus_name))
+
         for train_index, test_index in KFold(n_splits=N_FOLD).split(corpus_data):
             # Cetak informasi data uji & data latih
             print("Fold ke-{}:".format(fold_counter))
