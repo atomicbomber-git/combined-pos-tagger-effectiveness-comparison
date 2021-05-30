@@ -31,7 +31,7 @@ model_types = [
 corpora = {
     "corpus_1500": "./corpora/korpus_tagging_1500.crp",
     "corpus_1": "./corpora/corpus_1.txt",
-    # "corpus_wicaksono": "./corpora/korpus_wicaksono.crp",
+    "corpus_wicaksono": "./corpora/corpus_wicaksono.crp",
 }
 
 def get_model_path(name, type, fold):
