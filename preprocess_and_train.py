@@ -35,6 +35,7 @@ corpora = {
     "corpus_1500": "./corpora/korpus_tagging_1500.crp",
     "corpus_1": "./corpora/corpus_1.txt",
     "corpus_wicaksono": "./corpora/corpus_wicaksono.crp",
+    "corpus_dwi": "./corpora/corpus_train_dwi.crp",
 }
 
 # Format nama berkas model hasil training
