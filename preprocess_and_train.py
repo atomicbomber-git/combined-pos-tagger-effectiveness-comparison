@@ -17,7 +17,10 @@ sns.set(
     font="Monospace",
 )
 
+# Jumlah fold
 N_FOLD = 5
+
+# Nama berkas untuk masing-masing metode
 UNIGRAM_BIGRAM = "unigram_bigram"
 UNIGRAM_TRIGRAM = "unigram_trigram"
 UNIGRAM_BIGRAM_TRIGRAM = "unigram_bigram_trigram"
