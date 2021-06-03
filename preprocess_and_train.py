@@ -34,25 +34,31 @@ corpora = {
     "corpus_wicaksono": "./corpora/corpus_wicaksono.crp",
 }
 
+# Format nama berkas model hasil training
 def get_model_path(name, type, fold):
     return "./models/{}-{}-{}.model".format(name, type, fold)
 
+# Format nama berkas data training
 def get_training_data_path(name, fold):
     return "./training_data/{}-{}.txt".format(name, fold)
 
+# Format nama berkas data uji
 def get_test_data_path(name, fold):
     return "./test_data/{}-{}.txt".format(name, fold)
 
+# Proses data korpus sebelum disave
 def serizalize_corpus_data(training_data):
     return "\n".join([
         " ".join(["/".join(part) for part in line])
             for line in training_data
     ])
 
+# Memecah teks dengan format KATA/POS menjadi [KATA, POS]
 def pair_to_tuple(pair_text):
     token, pos = pair_text.split("/")
     return (token, pos)
 
+# Load data korpus
 def deserialize_corpus_data(lines):
     try:
         results = []
@@ -67,14 +73,13 @@ def deserialize_corpus_data(lines):
             line,
         ))
         raise value_error
-        
 
-
+# Save data korpus ke berkas
 def save_corpus_data(path, data):
     with open(path, "w") as filehandle:
         filehandle.write(serizalize_corpus_data(data))
 
-
+# Logika training Unigram-Bigram
 def unigram_bigram_tagger(train_sentences):
     return UnigramTagger(
         train_sentences,
@@ -84,7 +89,7 @@ def unigram_bigram_tagger(train_sentences):
         )
     )
 
-
+# Logika training Unigram-Trigram
 def unigram_trigram_tagger(train_sentences):
     return UnigramTagger(
         train_sentences,
@@ -94,7 +99,7 @@ def unigram_trigram_tagger(train_sentences):
         )
     )
 
-
+# Logika training Unigram-Bigram-Trigram
 def unigram_bigram_trigram_tagger(train_sentences):
     return UnigramTagger(
         train_sentences,
@@ -107,6 +112,7 @@ def unigram_bigram_trigram_tagger(train_sentences):
         )
     )
 
+# Logika pembuatan laporan karakterisik korpus
 def report_corpus(corpus: list, name: str):
     pos_class_df = DataFrame([
         pos for pos in
@@ -147,6 +153,7 @@ def report_corpus(corpus: list, name: str):
     pass
 
 if __name__ == "__main__":
+    # Load data korpus satu per sau
     for corpus_name in corpora:
         corpus_data = deserialize_corpus_data(open(corpora[corpus_name], "r").readlines())
         report_corpus(corpus_data, corpus_name)
@@ -157,6 +164,7 @@ if __name__ == "__main__":
 
         print("Memroses korpus {}...".format(corpus_name))
 
+        # Belah korpus menjadi sekian fold
         for train_index, test_index in KFold(n_splits=N_FOLD).split(corpus_data):
             # Cetak informasi data uji & data latih
             print("Fold ke-{}:".format(fold_counter))
@@ -167,16 +175,16 @@ if __name__ == "__main__":
             train_data = corpus_data[train_index].tolist()
             test_data = corpus_data[test_index].tolist()
 
-
+            # Save data training & uji
             save_corpus_data(get_training_data_path(corpus_name, fold_counter), train_data)
             save_corpus_data(get_test_data_path(corpus_name, fold_counter), test_data)
             
-
+            # Pembuatan model
             unigram_bigram_tagger_model = unigram_bigram_tagger(train_data)
             unigram_trigram_tagger_model = unigram_trigram_tagger(train_data)
             unigram_bigram_trigram_tagger_model = unigram_bigram_trigram_tagger(train_data)
 
-
+            # Save model
             pickle.dump(unigram_bigram_tagger_model, open(get_model_path(corpus_name, UNIGRAM_BIGRAM, fold_counter), "wb"))
             pickle.dump(unigram_trigram_tagger_model, open(get_model_path(corpus_name, UNIGRAM_TRIGRAM, fold_counter), "wb"))
             pickle.dump(unigram_bigram_trigram_tagger_model, open(get_model_path(corpus_name, UNIGRAM_BIGRAM_TRIGRAM, fold_counter), "wb"))
