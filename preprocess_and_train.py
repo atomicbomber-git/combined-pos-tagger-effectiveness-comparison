@@ -85,9 +85,9 @@ def save_corpus_data(path, data):
 
 # Logika training Unigram-Bigram
 def unigram_bigram_tagger(train_sentences):
-    return UnigramTagger(
+    return BigramTagger(
         train_sentences,
-        backoff=BigramTagger(
+        backoff=UnigramTagger(
             train_sentences,
             backoff=DefaultTagger("NN")
         )
@@ -95,9 +95,9 @@ def unigram_bigram_tagger(train_sentences):
 
 # Logika training Unigram-Trigram
 def unigram_trigram_tagger(train_sentences):
-    return UnigramTagger(
+    return TrigramTagger(
         train_sentences,
-        backoff=TrigramTagger(
+        backoff=UnigramTagger(
             train_sentences,
             backoff=DefaultTagger("NN")
         )
@@ -105,11 +105,11 @@ def unigram_trigram_tagger(train_sentences):
 
 # Logika training Unigram-Bigram-Trigram
 def unigram_bigram_trigram_tagger(train_sentences):
-    return UnigramTagger(
+    return TrigramTagger(
         train_sentences,
         backoff=BigramTagger(
             train_sentences,
-            backoff=TrigramTagger(
+            backoff=UnigramTagger(
                 train_sentences,
                 backoff=DefaultTagger("NN")
             )
