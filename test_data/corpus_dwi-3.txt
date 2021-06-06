@@ -108,7 +108,7 @@ Di/IN musim/NN dingin/JJ di/IN Sepanyol/NNP tadak/NEG sedingin/NN di/IN Belande/
 Kalok/SC di/IN Belande/NNP biasenye/RB pagi-pagi/JJ tu/DT cuace-e/NNG limak/CDP derajat/VBT celcius/NN di/IN Madrid/NNP ni/DT bise/VBT sembilan/CDP sampai/VBT sepuloh/VBI derajat/NN ./.
 Nah/UH kalok/SC di/IN Bulgaria/NNP bede/NN agek/RB ./.
 Lebeh/JJ sejuk/JJ agek/RB di/IN bandeng/VBI di/IN Belande/NNP ./.
-Jadi/CC maseng-maseng/RBS tempat/NN di/IN bumi/NN ni/DT udah/MD di/IN ator/VBT dah/RB same/IN yang/SC nyiptekan/VBI ./.
+Jadi/CC maseng-maseng/RB tempat/NN di/IN bumi/NN ni/DT udah/MD di/IN ator/VBT dah/RB same/IN yang/SC nyiptekan/VBI ./.
 Tinggal/VBI macammane/WP care/NN kite/PRP jak/RB besukor/VBT same/IN yang/SC udah/MD nyiptekan/VBI bumi/NN seisik-isik-e/NNG ./.
 Kalau/CC pandai/JJ besukor/VBT sedaplah/JJ idop/VBI kite/PRP ./.
 Kalau/SC tak/NEG pandai/JJ kite/PRP besukor/VBT berarti/VBI idop/VBI kite/PRP dijamin/VBT tak/NEG sedap/JJ ./.

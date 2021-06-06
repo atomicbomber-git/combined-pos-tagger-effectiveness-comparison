@@ -44,7 +44,7 @@ Ade/VBT soal/IN cuace/NN ./.
 Ade/VBT soal/IN makan/NN ./.
 Ceting/VBI demi/IN ceting/VBI kamek/PRP lakukan/VBI ./.
 Dan/CC yang/SC paleng/RB penting/JJ ,/, surat/NN undangan/NN sponsor/NNP dari/IN Belande/NNP udah/MD datang/VBI ./.
-Tiket/NN pon/RP udah/DM dibeli/VBI ./.
+Tiket/NN pon/RP udah/MD dibeli/VBI ./.
 sekarang/RB saat-e/RB aku/PRP nguros/VBT visa/NN tang/IN kedutaan/NN ./.
 Blande/NNP negeri/NN penjajah/NN bentar/RB agek/RB nak/MD ku/PRP jajah/VBI ./.
 Ikot/VBI ndak/NEG ?/.
@@ -212,10 +212,10 @@ Bise/VBT ndak/NEG kitak/PRP nebak-e/VBI ?/.
 Anok/VBI eee/RP anok/VBI ,/, bise/VBT ndak/NEG kau/PRP anok/VBI kan/RP aku/PRP ./.
 Eh/UH salah/JJ ,/, bise/VBT ndak/NEG kau/PRP potokan/VBT aku/PRP ?/.
 Pengen/RB benar/JJ aku/PRP nak/MD bepoto/VBI ngan/CC begron/NN kincer/NN angen/NNP tu/DT ./.
-Oh/UH ,/, mintak/VBT tulong/VBT moto/VBI ,/, bise/VBGT pulak/RP bang-e/PRP ./.
+Oh/UH ,/, mintak/VBT tulong/VBT moto/VBI ,/, bise/VBT pulak/RP bang-e/PRP ./.
 Sinelah/PRL tustel/NN kau/PRP biar/VBI aku/PRP potokan/VBT ./.
 Aku/PRP pon/RP ngasikkan/VBT tustel/NN aku/PRP ke/IN die/PRP ,/, lalu/CC bedirilah/VBI aku/PRP tekejong/VBI tang/IN depan/PRL kincer/NN angen/NNP ./.
-Anak/NN dare/ tu/DT mundor/VBI duak/CDP tige/CDP langkah/NN ,/, tapi/CC begitu/CC die/PRP nengok-kan/VBT aku/PRP tekejong/VBI ,/, maju/VBI agek/RB die/PRP ./.
+Anak/NN dare/NN tu/DT mundor/VBI duak/CDP tige/CDP langkah/NN ,/, tapi/CC begitu/CC die/PRP nengok-kan/VBT aku/PRP tekejong/VBI ,/, maju/VBI agek/RB die/PRP ./.
 Bang/PRP ,/, tak/NEG sedap/JJ gaye/NN kau/PRP bang/PRP ./.
 Macam/RP orang/NN kampong/NN ./.
 Dari/IN muke/NN dah/RB nampak/VBI dah/RB ,/, tapi/CC tak/NEG ga/RB segitunye/DT kale/RB ./.
@@ -408,7 +408,7 @@ Di/IN musim/NN dingin/JJ di/IN Sepanyol/NNP tadak/NEG sedingin/NN di/IN Belande/
 Kalok/SC di/IN Belande/NNP biasenye/RB pagi-pagi/JJ tu/DT cuace-e/NNG limak/CDP derajat/VBT celcius/NN di/IN Madrid/NNP ni/DT bise/VBT sembilan/CDP sampai/VBT sepuloh/VBI derajat/NN ./.
 Nah/UH kalok/SC di/IN Bulgaria/NNP bede/NN agek/RB ./.
 Lebeh/JJ sejuk/JJ agek/RB di/IN bandeng/VBI di/IN Belande/NNP ./.
-Jadi/CC maseng-maseng/RBS tempat/NN di/IN bumi/NN ni/DT udah/MD di/IN ator/VBT dah/RB same/IN yang/SC nyiptekan/VBI ./.
+Jadi/CC maseng-maseng/RB tempat/NN di/IN bumi/NN ni/DT udah/MD di/IN ator/VBT dah/RB same/IN yang/SC nyiptekan/VBI ./.
 Tinggal/VBI macammane/WP care/NN kite/PRP jak/RB besukor/VBT same/IN yang/SC udah/MD nyiptekan/VBI bumi/NN seisik-isik-e/NNG ./.
 Kalau/CC pandai/JJ besukor/VBT sedaplah/JJ idop/VBI kite/PRP ./.
 Kalau/SC tak/NEG pandai/JJ kite/PRP besukor/VBT berarti/VBI idop/VBI kite/PRP dijamin/VBT tak/NEG sedap/JJ ./.

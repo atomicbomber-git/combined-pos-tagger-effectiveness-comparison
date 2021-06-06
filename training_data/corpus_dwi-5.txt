@@ -44,7 +44,7 @@ Ade/VBT soal/IN cuace/NN ./.
 Ade/VBT soal/IN makan/NN ./.
 Ceting/VBI demi/IN ceting/VBI kamek/PRP lakukan/VBI ./.
 Dan/CC yang/SC paleng/RB penting/JJ ,/, surat/NN undangan/NN sponsor/NNP dari/IN Belande/NNP udah/MD datang/VBI ./.
-Tiket/NN pon/RP udah/DM dibeli/VBI ./.
+Tiket/NN pon/RP udah/MD dibeli/VBI ./.
 sekarang/RB saat-e/RB aku/PRP nguros/VBT visa/NN tang/IN kedutaan/NN ./.
 Blande/NNP negeri/NN penjajah/NN bentar/RB agek/RB nak/MD ku/PRP jajah/VBI ./.
 Ikot/VBI ndak/NEG ?/.
@@ -212,10 +212,10 @@ Bise/VBT ndak/NEG kitak/PRP nebak-e/VBI ?/.
 Anok/VBI eee/RP anok/VBI ,/, bise/VBT ndak/NEG kau/PRP anok/VBI kan/RP aku/PRP ./.
 Eh/UH salah/JJ ,/, bise/VBT ndak/NEG kau/PRP potokan/VBT aku/PRP ?/.
 Pengen/RB benar/JJ aku/PRP nak/MD bepoto/VBI ngan/CC begron/NN kincer/NN angen/NNP tu/DT ./.
-Oh/UH ,/, mintak/VBT tulong/VBT moto/VBI ,/, bise/VBGT pulak/RP bang-e/PRP ./.
+Oh/UH ,/, mintak/VBT tulong/VBT moto/VBI ,/, bise/VBT pulak/RP bang-e/PRP ./.
 Sinelah/PRL tustel/NN kau/PRP biar/VBI aku/PRP potokan/VBT ./.
 Aku/PRP pon/RP ngasikkan/VBT tustel/NN aku/PRP ke/IN die/PRP ,/, lalu/CC bedirilah/VBI aku/PRP tekejong/VBI tang/IN depan/PRL kincer/NN angen/NNP ./.
-Anak/NN dare/ tu/DT mundor/VBI duak/CDP tige/CDP langkah/NN ,/, tapi/CC begitu/CC die/PRP nengok-kan/VBT aku/PRP tekejong/VBI ,/, maju/VBI agek/RB die/PRP ./.
+Anak/NN dare/NN tu/DT mundor/VBI duak/CDP tige/CDP langkah/NN ,/, tapi/CC begitu/CC die/PRP nengok-kan/VBT aku/PRP tekejong/VBI ,/, maju/VBI agek/RB die/PRP ./.
 Bang/PRP ,/, tak/NEG sedap/JJ gaye/NN kau/PRP bang/PRP ./.
 Macam/RP orang/NN kampong/NN ./.
 Dari/IN muke/NN dah/RB nampak/VBI dah/RB ,/, tapi/CC tak/NEG ga/RB segitunye/DT kale/RB ./.
@@ -368,10 +368,10 @@ Tiap/JJ orang/NN mandang/VBT aku/PRP pakai/VBI jeket/NN jingge/NNP ni/DT ,/, tan
 Ade/VBT ape/WP bah/RP sebenar-e/RB ngan/CC warne/NN jingge/NNP tu/DT ./.
 Ngape/WP bah/RP tang/IN Belande/NNP ni/DT warne/NN jingge/NNP ngetop/VBI benar/JJ ?/.
 Kawan/NN aku/PRP pon/RP njelaskan/VBT ,/, kalau/CC sejarah-e/NNG dulok/RB tu/DT ,/, warne/NN jingge/NNP tu/DT sebenar-e/RB warne/NN resmi/JJ keluarge/NN kerajaan/NN Belande/NNP ./.
-Warne/NN jingge/NNP ni/DT diambek/VBI dari/IN name/NN pahlawan/NN Belande/NNC ,/, name-e/NNG Willem/NNP Van/NNP Oranje/NNP yang/SC kalok/DC nak/MD dirunot-runotkan/VBT agek/RB ke/IN belakang/NN ,/, bise/VBT jadi/VBI panjang/NN cerite-e/NNG ./.
+Warne/NN jingge/NNP ni/DT diambek/VBI dari/IN name/NN pahlawan/NN Belande/NNP ,/, name-e/NNG Willem/NNP Van/NNP Oranje/NNP yang/SC kalok/SC nak/MD dirunot-runotkan/VBT agek/RB ke/IN belakang/NN ,/, bise/VBT jadi/VBI panjang/NN cerite-e/NNG ./.
 Dari/IN duak/CDP laki/NN bini/NN ni/DT ,/, laher/VBI anak/NN bujang/NN name-e/NNG Rene/NNP ./.
 Si/RP Rene/NNP ni/DT dapat/VBI waresan/NN dari/IN kerajaan/NN Orange/NNP jingge/NNP dari/IN sodare/NN emak-e/NNG ,/, name-e/NNG Philibert/NNP dari/IN Chalon/NNP ./.
-Karne/CC Rene/NNP ni/DT ade/VBT gak/RB keturonan/NN bangsawan/NN Nassau/NNP belah/NN bapak/NN ,/, dan/CC sebagai/CC anak/NN pertame/CDO yang/SC laher/VBI dari/IN gabongan/NN keluarga/NN Nassau/NNP dan/CC Orange/NNP ,/, make/CON die/PRP buleh/MD makai/VBT name/NN Orange-Nassau/NNP jadi/VBI name/NN keluarga/NN baru-e/NNG ./.
+Karne/CC Rene/NNP ni/DT ade/VBT gak/RB keturonan/NN bangsawan/NN Nassau/NNP belah/NN bapak/NN ,/, dan/CC sebagai/CC anak/NN pertame/CDO yang/SC laher/VBI dari/IN gabongan/NN keluarga/NN Nassau/NNP dan/CC Orange/NNP ,/, make/CC die/PRP buleh/MD makai/VBT name/NN Orange-Nassau/NNP jadi/VBI name/NN keluarga/NN baru-e/NNG ./.
 Lalu/CC Rene/NNP ni/DT mati/VBI taon/NN 1544/CDP ,/, sepupu-e/NNG dapat/VBI waresan/NN semue/CDI tanah/NN ./.
 Name/NN sepupu-e/NNG ni/DT ,/, William/NNP dari/IN Nassau/NNP Dillenburg/NNP ./.
 Lalulah/CC si/RP William/NNP ni/DT ngganti/VBI name-e/NNG jadi/VBI William/NNP I/NNP dari/IN Orange/NNP ./.
@@ -557,7 +557,7 @@ Tadak/NEG ba/RP kenak/VBT usit-kan/VBT sapam/NN ./.
 Tenang/JJ jak/RB kitak/PRP sapam/NN di/IN Belande/NNP baek-baek/JJ ./.
 Muke-e/NNP ganteng-ganteng/JJ macam/RP muke/NN orang/NN barat/JJ ./.
 Memang/RB gak/RB die/PRP tu/DT orang/NN Barat/JJ !/.
-Ndak/NEG telalu/rb lamak/JJ aku/PRP di/IN Schiphol/NNP ni/DT akher-e/RB aku/PRP masok/VBI ke/IN dalam/PRL pesawat/NN ./.
+Ndak/NEG telalu/RB lamak/JJ aku/PRP di/IN Schiphol/NNP ni/DT akher-e/RB aku/PRP masok/VBI ke/IN dalam/PRL pesawat/NN ./.
 Pesawat-e/NNG tadak/NEG besak-besak/JJ bena/JJ ./.
 Same/JJ lah/RP macam/RP pesawat/NN di/IN Supadio/NNP ./.
 Maklom/JJ ini/DT pesawat/NN penerbangan/NN jarak/NN dekat/JJ ./.
@@ -708,7 +708,7 @@ Di/IN musim/NN dingin/JJ di/IN Sepanyol/NNP tadak/NEG sedingin/NN di/IN Belande/
 Kalok/SC di/IN Belande/NNP biasenye/RB pagi-pagi/JJ tu/DT cuace-e/NNG limak/CDP derajat/VBT celcius/NN di/IN Madrid/NNP ni/DT bise/VBT sembilan/CDP sampai/VBT sepuloh/VBI derajat/NN ./.
 Nah/UH kalok/SC di/IN Bulgaria/NNP bede/NN agek/RB ./.
 Lebeh/JJ sejuk/JJ agek/RB di/IN bandeng/VBI di/IN Belande/NNP ./.
-Jadi/CC maseng-maseng/RBS tempat/NN di/IN bumi/NN ni/DT udah/MD di/IN ator/VBT dah/RB same/IN yang/SC nyiptekan/VBI ./.
+Jadi/CC maseng-maseng/RB tempat/NN di/IN bumi/NN ni/DT udah/MD di/IN ator/VBT dah/RB same/IN yang/SC nyiptekan/VBI ./.
 Tinggal/VBI macammane/WP care/NN kite/PRP jak/RB besukor/VBT same/IN yang/SC udah/MD nyiptekan/VBI bumi/NN seisik-isik-e/NNG ./.
 Kalau/CC pandai/JJ besukor/VBT sedaplah/JJ idop/VBI kite/PRP ./.
 Kalau/SC tak/NEG pandai/JJ kite/PRP besukor/VBT berarti/VBI idop/VBI kite/PRP dijamin/VBT tak/NEG sedap/JJ ./.

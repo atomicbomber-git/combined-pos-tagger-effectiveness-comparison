@@ -1,5 +1,5 @@
 from pandas.core.frame import DataFrame
-from preprocess_and_train import corpora, N_FOLD, get_test_data_path, get_model_path, deserialize_corpus_data, model_types
+from preprocess_and_train import corpora, N_FOLD, get_test_data_path, get_model_path, deserialize_corpus_data, get_predicted_tests_data_path, model_types, serizalize_corpus_data
 from sklearn.metrics import classification_report
 from pycm import ConfusionMatrix
 import seaborn as sns
@@ -126,8 +126,13 @@ for corpus_name in corpora:
 
             # Lakukan prediksi
             y_pred_raw = model.tag_sents(x_raw)
+
+            with open(get_predicted_tests_data_path(corpus_name, model_type, fold_counter), "w") as filehandle:
+                filehandle.write(serizalize_corpus_data(y_pred_raw))
+
             y_pred_raw = [[part[1] for part in line] for line in y_pred_raw]
             y_pred = [item for sublist in y_pred_raw for item in sublist]
+
 
             y_true_raw = [[part[1] for part in line] for line in test_data]
             y_true = [item for sublist in y_true_raw for item in sublist]

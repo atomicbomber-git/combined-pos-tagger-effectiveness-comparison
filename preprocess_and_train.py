@@ -46,6 +46,10 @@ def get_model_path(name, type, fold):
 def get_training_data_path(name, fold):
     return "./training_data/{}-{}.txt".format(name, fold)
 
+# Get predicted tests data path
+def get_predicted_tests_data_path(name, type, fold):
+    return "./prediction_results/{}-{}-{}.txt".format(name, type, fold)
+
 # Format nama berkas data uji
 def get_test_data_path(name, fold):
     return "./test_data/{}-{}.txt".format(name, fold)
