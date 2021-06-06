@@ -1,0 +1,300 @@
+Gubernur/NNP Bank/NNP Indonesia/NNP Boediono/NN mengatakan/VB perbankan/NN harus/MD mulai/VB waspada/NN dalam/PRP menyalurkan/VB kreditnya/NN ./.
+Kita/NNP ingin/VB keseimbangan/NN antara/CON pertumbuhan/NN yang/CON wajar/NN dan/CON inflasi/VB yang/CON mencapai/VB sasaran/NN ./.
+Itu/DT artinya/NN bank/NN harus/MD mulai/VB waspada/NN mengenai/VB pemberian/NN kreditnya/NN tetap/RB hati-hati/VB ./.
+jangan/NEG berlebihan/VB untuk/IN melakukan/VB komitmen/NN yang/CON mungkin/RB pendanaannya/NN belum/VB ada/VB ./.
+jadi/VB dengan/CON sinyal/RB yang/CON kita/PRP berikan/VB kita/PRP harapkan/MD bank/NN menyesuaikan/VB ,/, katanya/NN di/IN Jakarta/NNP Rabu/NNP ./.
+BI/NNP memberikan/VB sinyal/RB untuk/IN mengerem/NN sisi/NN permintaan/NN dengan/CON menaikkan/VB suku/VB bunga/NN acuan/NN BI/NNP rate/NN dua/CD puluh/CDA lima/CD basis/FW poin/VB menjadi/VB Sembilan/CD koma/NN dua/CD puluh/CDA lima/CD persen/NN ./.
+Itu/DT untuk/IN mengendalikan/VB supaya/CON permintaan/NN tidak/VB melonjak/VB ,/, katanya/NN di/IN Jakarta/NNP ,/, Kamis/NNP ./.
+Dan/CON dinaikkannya/NN BI/NNP rate/NN akan/JJ mendorong/VB perbankan/NN menaikkan/VB suku/VB bunga/NN kreditnya/NN untuk/IN mengerem/NN kredit/JJ ,/, katanya/NN ./.
+selain/JJ itu/DT ,/, menurut/VB dia/VB ,/, kenaikan/VB suku/VB bunga/NN diperlukan/VB untuk/IN mengatasi/VB kesulitan/NN likuditas/NN di/IN kalangan/NN perbankan/NN ./.
+Kalau/CON BBM/NNP tergantung/VB konsumsinya/NN ,/, kalau/CON listrik/NN tergantung/VB dari/IN volume/NN grossnya/NN ./.
+Kalau/CON basenya/NN harga/NN yang/CON digunakan/VB baik/JJ PLN/NNP maupun/VB BBM/NNP maka/VB realiasai/NN subsid/NN bisa/VB lebih/JJ rendah/JJ ,/, katanya/NN ./.
+Fasilitas/NN kredit/JJ tersebut/VB sendiri/VB terdiri/VB dari/IN plafon/NN L/NN C/NNP impor/NN ,/, standby/NN L/NN C/NNP ,/, garansi/NN bank/NN ./.
+Peluang/NN rupiah/CDA untuk/IN menembus/NN angka/VB Sembilan/CD ribu/CDA seratus/NNP lima/CD puluh/CDA rupiah/CDA masih/RB besar/JJ ./.
+Kami/NNP optimis/VB rupiah/CDA masih/RB bisa/VB bergerak/VB naik/NN lagi/NN ,/, apalagi/WH minat/NN investasi/VB asing/VB di/IN dalam/PRP negeri/NN semakin/RB besar/JJ ,/, katanya/NN ./.
+Kekhawatiran/NNP atas/NN sektor/NN keuangan/NN itu/DT ,/, katanya/NN ,/, bank/NN sentral/JJ AS/NNP The/NNP Fed/NNP kemungkinan/VB tidak/VB akan/JJ menaikkan/VB suku/VB bunganya/NN lagi/NN ./.
+Kami/NNP optimis/VB The/NNP Fed/NNP akan/JJ tetap/RB mempertahankan/VB suku/VB bunganya/NN ,/, ucapnya/VB ./.
+Sedangkan/NNP terhadap/NN penghasilan/NN sisa/NN yaitu/RP dua/CD puluh/CDA juta/CDA rupiah/CDA dikenakan/NN tarif/NN pajak/VB normal/JJ dua/CD puluh/NN delapan/CD persen/NN ./.
+Rupiah/CDA pada/IN hari/NN berikut/NN diperkirakan/VB akan/JJ bisa/VB mencapai/VB angka/NN Sembilan/CD ribu/CDA tiga/CD ratus/NN per/CD dolar/RB AS/NNP ,/, apabila/WH BI/NNP terus/RB mengikuti/VB perkembangan/NN lebih/JJ lanjut/NN ,/, ucapnya/VB ./.
+BI/NNP ,/, lanjut/NN dia/VB ,/, menginginkan/VB rupiah/CDA berada/VB di/IN bawah/VB angka/NN sembialn/NN ribu/CDA tiga/CD ratus/NN per/CD dolar/RB AS/NNP ,/, karena/CON itu/DT BI/NNP terus/RB melakukan/VB intervensi/VB pasar/NN ./.
+Otoritas/NN moneter/NN menilai/VB rupiah/CDA akan/JJ aman/JJ apabila/WH rupiah/CDA berada/VB di/IN bawah/VB posisi/NN Sembilan/CD ribu/CDA tiga/CD ratus/NN per/CD dolar/RB AS/NNP ,/, ucapnya/VB ./.
+Kami/NNP optimis/VB rupiah/CDA pada/IN hari/NN berikutnya/VB masih/RB akan/JJ bergerak/VB naik/NN ,/, karena/CON sentimen/NN pasar/NN cenderung/RB masih/RB mendukungnya/NN ,/, katanya/NN ./.
+Dengan/CON masuknya/NN BI/NNP ke/IN pasar/NN ,/, peluang/NN rupiah/CDA untuk/IN menguat/VB lagi/NN pada/IN hari/NN berikutnya/VB juga/VB sangat/PRP besar/JJ ,/, tuturnya/NN ./.
+BI/NNP juga/VB telah/VB menaikkan/VB suku/VB bunga/NN acuan/NN BI/NNP Rate/NNP sebesar/CON dua/CD puluh/CDA lima/CD basis/FW poin/VB menjadi/VB delapan/CD koma/NN lima/CD puluh/CDA persen/NN untuk/IN memicu/VB rupiah/CDA menguat/VB terhadap/CON dolar/RB AS/NNP ./.
+Selain/NNP itu/DT BI/NNP juga/VB memiliki/VB cadangan/NN devisa/JJ yang/CON terus/RB meningkat/VB ,/, sehingga/JJ dapat/VB digunakan/VB untuk/IN melakukan/VB intervensi/VB lebih/JJ lanjut/NN ,/, demikian/VB Rully/NNP Nova/NNP ./.
+Pemerintah/NN dan/CON DPR/NNP mengkaji/VB kemungkinan/VB pencapaian/NN Produk/NNP Domestik/NN Bruto/NNP PDB/NNP dua/CD ribu/CDA Sembilan/CD sebesar/CD lima/CD ribu/CDA dua/CD ratus/NN tujuh/CD puluh/CDA lima/CD koma/NN sembilan/CD triliun/NN rupiah/CDA dengan/CON mengandalkan/NN ekspor/NN dan/CON investasi/VB ./.
+Dengan/CON PDB/NNP sebesar/CON itu/DT ,/, maka/RB PDB/NNP perkapita/NN kita/PRP sudah/NN mencapai/VB lebih/JJ dari/IN dua/CD ribu/CDA tujuh/CD ratus/NN dolar/RB AS/NNP per/CD kapita/NN ./.
+Tapi/CON sepertinya/NN kita/PRP masih/RB berada/VB di/IN level/VB middle/VB income/VB countries/FW ,/, kata/NN Sesmeneg/NN PPN/NNP Sestama/NN Bappenas/NNP Syahrial/NNP Loetan/NNP di/IN Jakarta/NNP ,/, Senin/NNP ./.
+Menurutnya/NNP ,/, ekspor/NN utama/NN pada/IN dua/CD ribu/CDA sembilan/CD diharapkan/VB berasal/VB dari/IN ekspor/NN non/NN migas/VB ,/, sementara/VB sektor-sektor/NN sumber/NN daya/NN alam/NN menjadi/VB faktor/NN utama/NN penarik/NN investasi/VB ./.
+Tapi/CON jangan/NEG lupa/NN ,/, ekonomi/NN yang/CON membaik/VB membuat/VB kemampuan/VB masyarakat/NN untuk/IN berkonsumsi/NN menjadi/VB lebih/JJ kuat/JJ ,/, katanya/NN ./.
+PDB/NNP sebesar/CON itu/DT ,/, tambahnya/NN ,/, diperoleh/VB dengan/CON pertumbuhan/NN ekonomi/NN enam/CD koma/NN dua/CD persen/NN dan/CON inflasi/VB enam/CD koma/NN lima/CD persen/NN ./.
+Meski/NNP demikian/VB ,/, tambahnya/NN ,/, posisi/NN Indonesia/NNP pada/IN kategori/NN negara/NN berpenghasilan/VB menengah/VB akan/JJ semakin/RB menyulitkan/NN Indonesia/NNP dalam/PRP memperoleh/VB pinjaman/NN sangat/PRP lunak/VB ./.
+Sekarang/RB ini/DT saja/RB hampir/VB semua/CDI pinjaman/NN sudah/NN menggunakan/VB skema/NN pinjaman/NN komersil/NN ,/, katanya/NN ./.
+Terutama/NNP berapa/WH batas/NN produksi/NN untuk/IN PT/NNP Timah/NN juga/NN saya/PRP belum/VB tahu/NN ./.
+Setahu/NN saya/PRP ,/, pembatasan/NN produksi/NN timah/NN Indonesia/NNP ini/DT belum/VB diterbitkan/VB secara/RB resmi/JJ dan/CON saya/PRP belum/VB tahu/NN seperti/IN apa/WH pengaturannya/NN ,/, kata/NN Abrun/NN ./.
+Sebagaimana/NNP diketahui/VB ,/, pemerintah/NN mulai/VB membatasi/NN produksi/NN timah/NN pada/IN dua/CD ribu/CDA Sembilan/CD ./.
+Hal/NNP ini/DT dilakukan/VB guna/NN mengontrol/NN harga/NN timah/NN dunia/NN ,/, Pasalnya/NN ./.
+Indonesia/NNP merupakan/NN eksportir/NN timah/NN terbesar/JJ dunia/NN dan/CON produsen/NN kedua/CD terbesar/JJ dunia/NN ./.
+Kalau/CON kita/PRP produksi/NN banyak/JJ dan/CON ekspor/NN juga/NN banyak/JJ ,/, maka/CON harga/NN di/IN pasar/NN dunia/NN bisa/VB turun/VB ,/, ujarnya/NN ./.
+Meski/NNP demikian/VB ,/, katanya/NN ,/, aksi/JJ beli/VB rupiah/CDA relatif/JJ masih/RB kecil/JJ karena/CON pelaku/NN masih/RB hati-hati/VB untuk/IN bermain/VB di/IN pasar/NN ./.
+Mereka/NNP khawatir/JJ dengan/CON harga/NN minyak/NN mentah/NN yang/CON masih/RB bergejolak/VB ./.
+Rupiah/CDA dikhawatirkan/NN akan/JJ terus/RB merosot/PRP jika/NN menembus/NN angka/VB tersebut/VB ./.
+Dari/IN sisi/NN iuran/NN membership/NN memang/VB ada/VB penghematan/NN ,/, tapi/CON itu/DT tidak/VB signifikan/JJ ./.
+Kemampuan/NN produksi/NN minyak/NN Indonesia/NNP hanya/VB sekitar/NN satu/CD juta/CDA barel/JJ per/CD hari/NN sehingga/JJ tidak/VB ada/VB pengaruhnya/NN ke/IN OPEC/NN ,/, katanya/NN ./.
+Menkeu/NNP menyebutkan/VB ,/, untuk/IN iuran/NN keanggotaan/NN pada/IN dua/CD ribu/CDA delapan/CD hanya/VB sekitar/NN delapan/CD ratus/NN ribu/CDA dolar/RB AS/NNP untuk/IN masa/NN keanggotaan/NN selama/JJ satu/CD tahun/NN ./.
+Menurut/NNP dia/VB ,/, kalaupun/CON Indonesia/NNP keluar/VB dari/IN OPEC/NN ,/, mungkin/RB baru/RB akan/JJ efektif/RP tahun/NN depan/PRP ./.
+Menteri/NN Energi/NNP dan/CON Sumber/NNP Daya/NNP Mineral/NNP ESDM/NNP secara/RB formal/NN akan/JJ melakukan/VB proses/NN Indonesia/NNP keluar/VB dari/IN OPEC/NN ./.
+Apalagi/NNP ,/, pertumbuhan/NN ekonomi/NN dunia/NN sudah/NN beralih/NN ke/IN Asia/NNP dari/IN sebelumnya/RB Amerika/NNP Serikat/NNP dan/CON Eropa/NNP ,/, ujarnya/NN ./.
+Ini/DT hanya/VB merupakan/PRP teknikal/NN saja/RB ,/, namun/NN rupiah/CDA masih/RB berpeluang/VB untuk/IN bisa/VB naik/NN kembali/IN ./.
+Kami/NNP optimistis/VB rupiah/CDA masih/RB dapat/VB bergerak/VB naik/NN lagi/NN ./.
+bahkan/CON kalau/CON memungkinkan/NN menembus/NN angka/VB Sembilan/CD ribu/CDA seratus/NNP per/CD dolar/RB AS/NNP ./.
+Nilai/NNP penjualan/NN saham/JJ ISAT/NN ini/DT mencapai/VB dua/CD koma/NN empat/NN miliar/VB dolar/RB Singapura/NNP atau/CON satu/CD koma/NN delapan/CD miliar/VB dolar/RB AS/NNP atau/CON enam/CD belas/CD koma/NN dua/CD triliun/NN rupiah/CDA ./.
+Memang/NNP ada/VB mekanisme/VB lain/VB ,/, tetapi/VB kami/PRP tidak/VB bisa/VB kasih/NN tahu/NN sekarang/RB ,/, kata/NN Hadiyanto/NN di/IN Gedung/NNP Departemen/NNP Keuangan/NNP Jakarta/NNP ,/, Jumat/NNP ./.
+Menurut/NNP dia/VB ,/, pengajuan/NN cekal/NN hingga/NN Januari/NNP dua/CD ribu/CDA sembilan/CD oleh/VB pihaknya/NN ditujukan/VB agar/RB mereka/NN menyadari/NN bahwa/CON menahan/VB uang/VB negara/NN merupakan/PRP kesalahan/NN ./.
+Kita/NNP ingin/VB dengan/CON cekal/NN ini/DT ,/, mereka/NN menyadari/NN bahwa/CON menahan/VB uang/VB negara/NN itu/DT sebuah/CON kesalahan/NN ./.
+Tapi/CON begitu/CON disetorkan/NN ,/, akan/JJ kita/PRP lepas/JJ pencegahan/NN itu/DT ,/, katanya/NN ./.
+Menurut/NNP dia/VB ,/, cekal/NN merupakan/PRP mekanisme/VB yang/CON dimiliki/VB pihaknya/NN ./.
+Ada/NN mekanisme/VB lain/VB seperti/IN pelanggaran/NN kontrak/NN pertambangan/NN dan/CON pelanggaran/NN aturan/NN pasar/NN modal/NN ,/, namun/NN itu/DT ada/VB di/IN unit/NN lain/NN ./.
+Pembelian/NN dolar/RB AS/NNP itu/DT terus/RB terjadi/VB setelah/CD harga/NN minyak/NN mentah/NN dunia/NN merosot/PRP hingga/NN mencapai/VB seratus/NNP lima/CD belas/CD dolar/RB AS/NNP per/CD barel/RB ,/, ujanya/NN ./.
+Nilai/NNP tukar/NN rupiah/CDA masih/RB berpeluang/VB untuk/IN menguat/VB etelah/NN mengalami/VB koreksi/NN harga/NN yang/CON cukup/VB tajam/JJ ,/, katanya/NN ./.
+Posisi/NN rupiah/CDA ,/, menurut/VB dia/VB saat/NN ini/DT sangat/PRP stabil/NN ./.
+Apalagi/NNP BI/NNP menginginkan/VB mata/NN uang/VB Indonesia/NNP berada/VB di/IN bawah/VB angka/NN sembialn/NN ribu/CDA dua/CD ratus/NN per/CD dolar/RB AS/NNP ./.
+Harga/NNP minyak/NN hari/NN ini/DT saja/RB di/IN bawah/VB seratus/NNP empat/NN belas/CD dolar/RB AS/NNP per/CD barel/RB ./.
+Persen/NN ,/, tapi/CON tidak/VB tertutup/NN kemungkinan/IN penyerapannya/NN lebih/JJ dari/IN Sembilan/CD puluh/CDA persen/NN ,/, katanya/NN ./.
+Indo/NN Tambangraya/NN didirikan/VB pada/IN seribu/NNP Sembilan/CD ratus/NN delapan/CD puluh/CDA tujuh/CD dan/CON diakuisisi/VB oleh/VB Banpu/NN Public/NNP Company/NNP pada/IN dua/CD ribu/CDA satu/CD ./.
+Rupiah/CDA yang/CON sempat/VB menguat/VB hingga/NN dibawah/VB angka/VB Rp/NNP Sembilan/CD ribu/CDA seratus/NNP per/CD dolar/RB AS/NNP mencapai/VB Rp/NNP Sembilan/CD ribu/CDA delapan/CD puluh/CDA per/CD dolar/RB AS/NNP ./.
+Merupakan/NN kenaikan/VB yang/CON paling/RB tinggi/JJ yang/CON pernah/RB dicapai/VB ./.
+Kami/NNP masih/RB optimis/VB pasar/NN Indonesia/NNP masih/RB memberikan/VB gain/NN yang/CON lebih/RB besar/JJ dibanding/VB pasar/NN Asia/NNP lainnya/NN ,/, katanya/NN ./.
+Ini/DT ada/VB konsistensi/NN dengan/CON indeks/VB tendensi/NN bisnis/VB ./.
+Ini/DT mungkin/RB terpengaruh/NN pada/IN faktor/NN musiman/NN sehingga/JJ cukup/VB perlu/RB kita/PRP waspadai/NN ke/IN depan/PRP ,/, katanya/NN ./.
+Ini/DT semua/CDI adalah/VB bentuk/NN keadilan/NN dalam/PRP kebijakan/NN perpajakan/NN kita/PRP ,/, keadilan/NN yang/CON disertai/NN tanggung/VB jawab/NN ./.
+Pemerintah/NN bertekad/NN untuk/IN menjaga/VB stabilitas/NN perekonomian/NN melalui/VB pengendalian/NN harga/NN BBM/NNP dan/CON tarif/NN dasar/JJ listrik/NN ./.
+Pemerintah/NN menargetkan/VB defisit/VB anggaran/VB sebesar/CD Sembilan/CD puluh/CDA Sembilan/CD koma/NN enam/CD triliun/NN rupiah/CDA dalam/PRP RAPBN/NNP dua/CD ribu/CDA sembilan/CD ./.
+Sasaran/NN yang/CON hendak/NN dicapai/VB adalah/VB penurunan/NN angka/VB kemiskinan/VB menuju/NN ke/IN angka/NN dua/CD belas/CD sampai/VB empat/NN belas/CD persen/NN ./.
+Peningkatan/NNP partisipasi/NN jenjang/NN pendidikan/NN dasar/JJ hingga/NN tingkat/NN pendidikan/NN tinggi/JJ ./.
+Peningkatan/NNP aksesibilitas/NN pelayanan/NN transportasi/NN yang/CON terjangkau/NN bagi/JJ seluruh/JJ lapisan/NN masyarakat/NN ./.
+Peserta/NNP lelang/NN dapat/VB mengajukan/VB penawaran/NN pembelian/NN kompetitif/NN dan/CON non/NN kompetitif/NN ./.
+Pemerintah/NN memiliki/VB hak/VB untuk/IN menjual/VB ketiga/CD seri/NNP SUN/NNP itu/DT lebih/RB besar/JJ atau/CON lebih/JJ kecil/JJ dari/IN jumlah/NN indikatif/VB yang/CON ditentukan/VB ./.
+Kalau/CON laju/NN inflasi/VB liar/NN ,/, kemerosotan/NN daya/NN beli/VB akan/JJ meluas/NN ke/IN kelompok/NN kelas/NN menengah/VB ./.
+Persen/NN ,/, sehingga/JJ pertumbuhan/NN ekonomi/NN semester/NN I/CD dua/CD ribu/CDA delapan/CD mencapai/VB sekitar/NN enam/CD koma/NN dua/CD persen/NN ./.
+Kita/NNP coba/FW terus/RB agar/RB investasi/VB bisa/VB tumbuh/VB dua/CD angka/NN hingga/NN akhir/JJ tahun/NN ,/, katanya/NN ./.
+Ekspor/NNP Indonesia/NNP pada/IN semester/NN I/CD dua/CD ribu/CDA delapan/CD tumbuh/VB mencapai/VB sebelas/CD koma/NN smbilan/NN sampai/VB dua/CD koma/NN nol/NN persen/NN ,/, sementara/VB impor/NN juga/NN tumbuh/VB sebelas/CD koma/NN satu/CD sampai/VB sebelas/CD koma/NN dua/CD persen/NN ./.
+Sedangkan/NNP ,/, realisasi/VB belanja/NN negara/NN hingga/NN semester/NN I/CD mencapai/VB tiga/CD puluh/CDA enam/CD koma/NN tujuh/CD persen/NN dari/IN APBN/NNP P/NN dua/CD ribu/CDA delapan/CD ./.
+Atau/NN cenderung/RB stagnan/NN jika/NN dibandingkan/VB periode/NN yang/CON sama/JJ tahun/NN lalu/CON ,/, tiga/CD puluh/CDA enam/CD koma/NN enam/CD persen/NN ./.
+Dan/CON lebih/JJ baik/JJ dari/IN penyerapan/NN pada/IN semester/NN I/CD dua/CD ribu/CDA enam/CD tiga/CD puluh/CDA empat/NN koma/NN satu/CD persen/NN ./.
+Penyerapan/NN belanja/NN pemerintah/NN pusat/NN mencapai/VB tiga/CD puluh/CDA lima/CD koma/NN empat/NN persen/NN ,/, lebih/JJ baik/JJ dari/IN tahun/NN lalu/CON tiga/CD puluh/CDA tiga/CD koma/NN tujuh/CD persen/NN ./.
+Sedangkan/NNP transfer/NN ke/IN daerah/NN mencapai/VB tiga/CD puluh/CDA Sembilan/CD koma/NN sembilan/CD persen/NN ,/, katanya/NN ./.
+Ini/DT menunjukkan/VB ekonomi/NN kita/PRP tidak/VB kebal/NN dari/IN krisis/JJ global/JJ ,/, katanya/NN ./.
+Kadangkala/NN ada/VB masalah/NN seperti/IN bencana/NN dan/CON sebagainya/RB ,/, ini/DT kan/RP bisa/VB menghambat/NN ekspor/NN maupun/NN impor/NN ./.
+Jadi/VB kita/PRP lihat/NN deh/NN ,/, jangan/NEG satu/CD bulan/CDA ,/, kita/PRP lihat/NN satu/CD semester/NN ./.
+Saya/NNP masih/RB optimsitis/NN ,/, ekspor/NN kita/PRP masih/RB baik/JJ ,/, katanya/NN ./.
+Ia/NNP mengharapkan/VB gambaran/NN awal/NN tahun/NN yang/CON menunjukkan/VB adanya/VB penurunan/NN tidak/VB menggambarkan/VB keseluruhan/NN tahun/NN dua/CD ribu/CDA tujuh/CD nantinya/VB ./.
+Harga-harga/NN komoditi/VB kita/PRP masih/RB lumayan/NN ./.
+Moga-moga/NN ini/DT hanya/VB sementara/VB ./.
+Terlalu/NN riskan/NN kalau/CON kita/PRP harus/MD bereaksi/NN atas/NN data/JJ yang/CON baru/JJ sebulan/CON karena/CON mungkin/RB akan/JJ salah/JJ ./.
+Jadi/VB kita/PRP tenang/JJ saja/RB dulu/RB ,/, katanya/NN ./.
+Sedangkan/NNP tingkat/NN service/NN fee/NN ditetapkan/VB sebesar/CON tingkat/VB bunga/NN LIBOR/NN dolar/RB AS/NNP jangka/NN waktu/NN dua/CD belas/CD bulan/CDA pada/IN tanggal/NN penarikan/NN pinjaman/NN ./.
+Biaya-biaya/NN lain/NN yang/CON timbul/NN dalam/PRP Loan/NN Agreement/NNP menjadi/VB beban/VB pemerintah/NN Indonesia/NNP yang/CON akan/JJ sepenuhnya/VB dilimpahkan/NN pass-on/NN menjadi/VB beban/VB KKA/NN di/IN dalam/PRP Naskah/NN Perjanjian/NNP Penerusan/NN Pinjaman/NNP SLA/NN ./.
+PT/NNP Pemeringkat/NN Efek/NNP Indonesia/NNP Pefindo/NNP menyatakan/VB telah/VB menetapkan/VB kembali/IN peringkat/NN idA/JJ Single/NNP A/NNP Stable/NN Outlook/NN terhadap/CON PT/NNP Perkebunan/NN Nusantara/NNP V/NN Persero/NNP untuk/IN periode/NN dua/CD puluh/CDA satu/CD November/NNP dua/CD ribu/CDA enam/CD sampai/VB dengan/CON satu/CD November/NNP dua/CD ribu/CDA tujuh/CD ./.
+Peringkat/NN tersebut/VB diberikan/VB berdasarkan/VB data/VB dan/CON informasi/VB dari/IN perusahaan/NN serta/NNP laporan/NN keuangan/NN audit/NN per/CD tiga/CD puluh/CDA satu/CD Desember/NNP dua/CD ribu/CDA lima/CD dan/CON laporan/NN keuangan/NN tidak/VB audit/NN per/CD tiga/CD puluh/CDA September/NNP dua/CD ribu/CDA enam/CD ,/, kata/NN Direktur/NNP Utama/NNP Pefindo/NNP Ananta/NN Wiyogo/NN dalam/PRP dalam/PRP sebuah/CD pernyataannya/NN di/IN Jakarta/NNP ,/, Selasa/NNP ./.
+Menurutnya/NNP ,/, perusahaan/NN dengan/CON peringkat/NN idA/JJ memiliki/VB dukungan/NN kemampuan/IN yang/CON kuat/JJ dibanding/VB obligor/VB Indonesia/NNP lainnya/VB untuk/IN memenuhi/VB kewajiban/NN finansial/JJ jangka/NN panjangnya/NN ./.
+Namun/NNP cukup/VB peka/JJ terhadap/NN perubahan/NN keadaan/NN yang/CON merugikan/PRP ./.
+Dolar/NNP AS/NNP diperdagangkan/VB di/IN atas/NN kisaran/PRP level/VB seratus/NNP dua/CD puluh/CDA satu/CD yen/JJ awal/NN transaksi/NN Selasa/NNP ,/, di/IN Tokyo/NNP ,/, setelah/CD mencatat/VB posisi/NN tertinggi/JJ baru/RB dalam/PRP sepuluh/NN -bulan/NN di/IN New/NNP York/NNP tadi/RB malam/NN ./.
+Pada/NNP pukul/RB Sembilan/CD nol/NN nol/NN ,/, dolar/RB dikutip/VB pada/IN seratus/NNP dua/CD puluh/CDA satu/CD koma/NN enam/CD puluh/CDA satu/CD samapai/VB enam/CD puluh/CDA enam/CD yen/JJ ,/, dibandingkan/VB dengan/CON Senin/NNP pukul/RB tujuh/CD belas/CD nol/NN nol/NN yang/CON dikutip/VB pada/IN seratus/NNP dua/CD puluh/CDA satu/CD koma/NN enam/CD puluh/CDA satu/CD sampai/VB tujuh/CD puluh/CDA satu/CD yen/JJ di/IN New/NNP York/NNP dan/CON seratus/NNP dua/CD puluh/CDA satu/CD koma/NN tiga/CD puluh/CDA enam/CD sampai/VB tiga/CD puluh/CDA delapan/CD yen/JJ di/IN Tokyo/NNP ./.
+Di/IN New/NNP York/NNP pada/IN Senin/NNP ,/, dolar/RB melesat/NN mendekati/VB posisi/NN tertinggi/JJ empat/NN tahun/NN pada/IN seratus/NNP dua/CD puluh/CDA sati/NN koma/NN delapn/NN puluh/NN yen/JJ di/IN tengah/RB berkembangnya/NN spekulasi/NN bahwa/CON kesenjangan/NN suku/JJ bunga/NN antara/CON AS/NNP dan/CON Jepang/NNP akan/JJ masih/RB melebar/VB untuk/IN sekarang/RB ,/, kata/NN para/NN dealer/JJ ./.
+Rapat/NNP Umum/NNP Pemmegang/NN Saham/NNP RUPS/NNP Bank/NNP Niaga/NNP di/IN Jakarta/NNP ,/, Kamis/NNP menetapkan/VB pembagian/NN dividen/NN sebesar/CD tiga/CD puluh/CDA persen/NN dari/IN laba/NN bersih/JJ yang/CON diperoleh/VB pada/IN dua/CD ribu/CDA enam/CD atau/CON sekitar/NN seratus/NNP Sembilan/CD puluh/CDA empat/NN koma/NN seratus/NNP miliar/VB rupiah/CDA ./.
+Ini/DT merupakan/PRP dividen/NN final/NN dan/CON akan/JJ diperhitungkan/NN dengan/CON dividen/NN interim/VB yang/CON telah/VB dibayarkan/VB pada/IN September/NNP dua/CD ribu/CDA enam/CD sebesar/CD tujuh/CD puluh/CDA koma/VB enam/CD miliar/VB rupiah/CDA ,/, kata/NN Presiden/NNP Direktur/NNP Bank/NNP Niaga/NNP ,/, Hashemi/NN Albakri/NN seusai/JJ RUPS/NNP ./.
+Ia/NNP mengatakan/VB ,/, dengan/CON perhitungan/NN itu/DT dividen/NN tunai/NN yang/CON masih/RB akan/JJ dibagikan/NN sebesar/CON seratus/NNP dua/CD puluh/CDA tiga/CD koma/NN tujuh/CD miliar/VB rupiah/CDA ./.
+Menurut/NNP dia/VB ,/, pembagian/NN dividen/NN itu/DT ekuivalen/NN dengan/CON sepuluh/NN koma/NN lima/CD belas/CD rupiah/CDA per/CD saham/JJ ,/, dan/CON akan/JJ dibayarkan/VB ke/IN para/NN pemegang/NN saham/JJ pada/IN empat/NN Juni/NNP dua/CD ribu/CDA tujuh/CD ./.
+Dikatakannya/NNP ,/, laba/NN bersih/JJ banknya/NN per/CD dua/CD ribu/CDA enam/CD tercatat/VB sekitar/NN enam/CD ratus/NN empat/NN puluh/NN delapan/CD miliar/VB rupiah/CDA ./.
+Ia/NNP mengatakan/VB ,/, untuk/IN triwulan/NN pertama/CD dua/CD ribu/CDA tujuh/CD Bank/NNP Niaga/NNP mencatat/VB laba/NN bersih/JJ belum/NN diaudit/NN sebesar/CD dua/CD ratus/NN dua/CD miliar/VB rupiah/CDA ,/, atau/CON naik/NN empat/NN belas/CD persen/NN dibanding/VB periode/NN yang/CON sama/JJ tahun/NN sebelumnya/RB ./.
+Rapat/NNP Dewan/NNP Gubernur/NNP RDG/NNP Bank/NNP Indonesia/NNP BI/NNP ,/, Selasa/NNP ,/, memutuskan/VB untuk/IN menurunkan/VB suku/VB bunga/NN acuan/NN BI/NNP BI/NNP rate/NN sebesar/CON dua/CD puluh/CDA lima/CD basis/FW poin/VB bps/NN menjadi/VB Sembilan/CD koma/NN dua/CD puluh/CDA lima/CD persen/NN dari/IN sebelumnya/RB Sembilan/CD koma/NN lima/CD puluh/CDA persen/NN ./.
+RDG/NNP menilai/VB bahwa/NN sampai/VB dengan/CON Januari/NNP dua/CD ribu/CDA tujuh/CD perekonomian/NN nasional/NN masih/RB konsisten/NN dengan/CON perkiraan/NN yang/CON ditetapkan/VB pada/IN awal/NN tahun/NN dan/CON masih/RB berpeluang/VB untuk/IN tumbuh/VB lebih/JJ tinggi/JJ ./.
+Namun/NNP ,/, respon/NN sisi/NN penawaran/NN tampak/NN masih/RB terkendala/VB baik/JJ untuk/IN peningkatan/NN kapasitas/NN karena/CON adanya/VB masalah/NN infrastruktur/VB ,/, energi/VB dan/CON iklim/VB investasi/VB maupun/RP untuk/IN peningkatan/NN efisiensi/NN dan/CON produktifitas/NN karena/CON biaya/RB tinggi/JJ dalam/PRP perekonomian/NN ,/, rendahnya/VB kualitas/NN tenaga/NN kerja/NN dan/CON semakin/RB menurunnya/NN usia/RB produktif/NN kapital/NN ./.
+Dikatakannya/NNP ,/, masih/RB tingginya/NN berbagai/VB risiko/NN mikro/VB struktural/NN yang/CON menyelimuti/NN perekonomian/NN di/IN sektor/NN riil/JJ membuat/VB jendela/NN peluang/NN the/NN window/NN of/FW opportunity/NN bagi/JJ pemutus/NN kebijakan/NN publik/RB mulai/VB mengecil/NN ,/, sementara/VB ruang/NN untuk/IN menurunkan/VB BI/NNP Rate/NNP semakin/RB terbatas/VB ./.
+Oleh/NNP karena/RB itu/DT ,/, katanya/NN ,/, upaya/VB memelihara/NN momentum/NN pemulihan/NN ekonomi/NN dengan/CON mempercepat/VB realisasi/VB perbaikan/NN iklim/VB investasi/VB dan/CON penurunan/NN biaya/RB tinggi/JJ serta/NNP distorsi/NN struktural/NN lainnya/NN dalam/PRP perekonomian/NN menjadi/VB penting/JJ di/IN semester/NN I/CD tahun/NN dua/CD ribu/CDA tujuh/CD ./.
+PT/NNP Pemeringkat/NN Efek/NNP Indonesia/NNP Pefindo/NNP menaikkan/VB peringkat/NN PT/NNP Bank/NNP Rakyat/NNP Indonesia/NNP Persero/NNP Tbk/NNP BBRI/NN menjadi/VB idAA/NN dari/IN idAA-/NN ,/, sementara/VB peringkat/NN Obligasi/NNP Subordinasi/NNP I/CD Tahun/NNP dua/CD ribu/CDA tiga/CD senilai/NN Rp/NNP lima/CD ratus/NN ribu/CDA miliar/VB naik/NN menjadi/VB idAA-/NN ./.
+Peringkat/NN tersebut/VB mencerminkan/VB franchise/NN Bank/NNP BRI/NNP yang/CON kuat/JJ dalam/PRP pembiayaan/NN kepada/NN sektor/NN mikro/VB dan/CON ritel/NN ,/, serta/NNP profitabilitas/NN yang/CON baik/JJ sepanjang/IN periode/NN pemantauan/NN ,/, kata/NN Pefindo/NNP dalam/PRP sebuah/CD pernyataan/NN tertulisnya/NN di/IN Jakarta/NNP ,/, Kamis/NNP ./.
+Namun/NNP ,/, kata/NN lembaga/JJ pemeringkat/NN nasional/NN itu/DT ,/, peringkat/NN tersebut/VB diperlemah/VB oleh/VB rasio/NN kredit/JJ bermasalah/VB non/NN performing/NN loan/NN NPL/NNP yang/CON meningkat/VB selama/JJ tiga/CD tahun/NN terakhir/JJ ,/, walaupun/NN masih/RB lebih/JJ moderat/NN dibanding/VB peers-nya/NN perusahaan/NN sejenisnya/NN ./.
+Bank/NNP BRI/NNP didirikan/VB pada/IN seribu/NNP delapan/CD ratus/NN Sembilan/CD puluh/CDA lima/CD ,/, merupakan/NN bank/NN tertua/NN di/IN Indonesia/NNP dan/CON lama/RB dikenal/VB sebagai/CON bank/NN untuk/IN bisnis/VB mikro/VB dan/CON ritel/NN ./.
+Dengan/CON total/JJ aset/NN mencapai/VB seratus/NNP tiga/CD puluh/CDA lima/CD koma/NN dua/CD triliun/NN rupiah/CDA per/CD Juni/NNP dua/CD ribu/CDA enam/CD ,/, Bank/NNP BRI/NNP merupakan/PRP bank/NN terbesar/JJ keempat/NN di/IN Indonesia/NNP ,/, menguasai/VB delapn/NN koma/NN sembilan/CD persen/NN pangsa/NN pasar/NN dari/IN total/JJ aset/NN industri/VB perbankan/NN ./.
+Disebutkan/NN ,/, per/CD Juni/NNP dua/CD ribu/CDA enam/CD ,/, pemegang/NN saham/JJ Bank/NNP BRI/NNP terdiri/VB atas/NN Pemerintah/NN Indonesia/NNP lima/CD puluh/CDA tujuh/CD koma/NN empat/NN persen/NN dan/CON masyarakat/NN empat/NN puluh/NN dua/CD koma/NN enam/CD persen/NN ./.
+Bank/NNP BRI/NNP memiliki/VB tiga/CD puluh/CDA delapam/CON ribu/CDA seratus/NNP dua/CD puluh/CDA enam/CD pegawai/NN tersebar/VB di/IN empat/NN ribu/CDA delapan/CD ratus/NN dua/CD puluh/CDA tiga/CD kantor/NN memiliki/VB Sembilan/CD ratus/NN delapan/CD puluh/CDA dua/CD ATM/NNP sendiri/NN dan/CON bekerjasama/VB dengan/CON jaringan/JJ ATM/NNP Bersama/NNP ,/, ATM/NNP Link/NN dan/CON ATM/NNP BCA/NNP ./.
+Mantan/NN Menteri/NN Keuangan/NNP DR/NNP Rizal/NN Ramli/NN di/IN Jakarta/NNP ,/, Kamis/NNP ,/, menyatakan/VB langkah/NN strategis/NN pembubaran/NN Consultative/NN Group/NNP on/FW Indonesia/NNP CGI/NNP oleh/VB Presiden/NNP Susilo/NNP Bambang/NNP Yudhoyono/NNP merupakan/PRP langkah/NN berani/NN dan/CON bisa/VB menjadi/VB langkah/NN awal/NN untuk/IN meningkatkan/VB kemandirian/VB perumusan/NN strategi/NN dan/CON kebijakan/NN ekonomi/NN Indonesia/NNP ./.
+Setelah/NNP lebih/JJ dari/IN empat/NN puluh/NN tahun/NN ,/, sejak/NN awal/NN orde/NN baru/JJ ,/, Indonesia/NNP sangat/PRP tergantung/VB pada/IN forum/NN kreditor/JJ ,/, kini/NN CGI/NNP dulu/RB bernama/VB IGGI/NNP ./.
+Dalam/PRP prakteknya/NN konsorsium/NN kreditor/JJ ini/DT bertindak/VB sebagai/CON kartel/NN yang/CON menekan/VB dan/CON memaksa/NN Indonesia/NNP mengikuti/VB kebijakan/NN ekonomi/NN yang/CON pro/NN kepentingan/NN kreditor/JJ ,/, kata/NN Rizal/NN Ramli/NN kepada/NN ANTARA/NNP ./.
+Menurut/NNP doktor/NN ekonomi/NN yang/CON dikenal/VB penentang/NN keras/JJ CGI/NNP dan/CON kelompoknya/NN itu/DT ,/, kepentingan/NN negara/NN kreditor/JJ belum/NN tentu/JJ sesuai/JJ dengan/CON kepentingan/NN nasional/NN maupun/NN rakyat/NN Indonesia/NNP ./.
+Itulah/NN yang/CON menyebabkan/VB mengapa/NN Indonesia/NNP tidak/VB pernah/RB bisa/VB menjadi/VB salah/JJ satu/CD negara/NN besar/JJ di/IN Asia/NNP ,/, karena/CON kebijakan/NN ekonominya/NN didikte/NN dan/CON dirumuskan/NN oleh/VB konsorsium/NN kreditor/JJ tersebut/VB ./.
+Pengalaman/NN kami/PRP misalnya/VB ,/, ada/VB negara/NN yang/CON hanya/VB meminjamkan/NN seratus/NNP juta/CDA dolar/RB AS/NNP ,/, namun/NN sering/NNP meminta/VB banyak/JJ persyaratan/NN ,/, baik/JJ menyangkut/VB masalah/NN ekonomi/NN ,/, politik/NN ,/, hukum/NN dan/CON sebagainya/RB ,/, ujar/NN Rizal/NN ./.
+Sewaktu/NN menjabat/NN Menko/NNP Perekonomian/NNP sebelum/RB menjadi/VB menteri/NN keuangan/NN ,/, Rizal/NN Ramli/NN bersama/VB tim/VB kecilnya/JJ ,/, berkeliling/NN Eropa/NNP dan/CON Amerika/NNP Serikat/NNP hanya/VB untuk/IN meyakinkan/VB negara/NN kreditor/JJ tersebut/VB bahwa/NN Indonesia/NNP perlu/RB diberi/VB keleluasaan/NN yang/CON lebih/RB besar/JJ dalam/PRP membangun/VB ekonominya/NN tanpa/RB merusak/NN hubungan/NN yang/CON sudah/NN terjalin/VB ./.
+Namun/NNP seperti/IN sudah/NN diketahui/VB karena/CON CGI/NNP bertindak/VB sebagai/CON kartel/NN yang/CON ramai-ramai/NN mengeroyok/NN Indonesia/NNP ,/, kita/PRP tidak/VB punya/VB posisi/NN tawar/NN yang/CON kuat/JJ saat/NN itu/DT ,/, tuturnya/NN ./.
+Forum/NNP CGI/NNP ,/, katanya/NN ,/, juga/VB sering/NNP digunakan/VB untuk/IN memaksakan/NN agar/RB Indonesia/NNP membeli/VB barang-barang/JJ modal/NN asal/NN negara/NN kreditor/JJ dengan/CON harga/NN yang/CON jauh/JJ lebih/RB mahal/NN dibandingkan/VB dengan/CON membeli/VB langsung/RB di/IN pasar/NN internasional/VB ./.
+Pada/NNP saat/NN Soeharto/NN membubarkan/NN IGGI/NNP ,/, salah/JJ satu/CD alasannya/NN adalah/VB intervensi/VB Belanda/NNP yang/CON sangat/PRP dominan/NN di/IN dalam/PRP forum/NN tersebut/VB ./.
+Soeharto/NN juga/NN setuju/NN untuk/IN memindahkan/VB tempat/NN pertemuan/NN bagi/JJ sidang-sidang/NN CGI/NNP di/IN Tokyo/NNP ./.
+Di/IN era/NN Menko/NNP Perekonomian/NNP Dorodjatun/NN Kuntjorojakti/NN sinyal/RB untuk/IN mandiri/JJ diteruskan/NN dan/CON lagi-lagi/NN tempat/NN sidang-sidang/NN CGI/NNP pun/VB berpindah/VB dari/IN Tokyo/NNP ke/IN Jakarta/NNP ./.
+Sayangnya/NN ,/, Soeharto/NN dan/CON tim/NN mafia/NN ekonominya/NN ,/, menyerahkan/NN kepemimpinannya/NN kepada/NN Bank/NNP Dunia/NNP ,/, sehingga/JJ peranan/NN dan/CON intervensi/VB Bank/NNP Dunia/NNP dalam/PRP merumuskan/NN kebijakan/NN ekonomi/NN Indonesia/NNP semakin/RB besar/JJ ,/, katanya/NN ./.
+Lebih/NNP lanjut/NN Rizal/NN Ramli/NN mengatakan/VB ,/, langkah/NN berani/NN Presiden/NNP Susilo/NNP Bambang/NNP Yudhoyono/NNP yang/CON membubarkan/NN CGI/NNP patut/NN dipuji/NN dan/CON berharap/VB agar/RB ada/VB langkah-langkah/NN berikutnya/VB serta/NNP terobosan/NN kebijaan/NN ekonomi/NN lainnya/NN guna/NN meningkatkan/VB kemandirian/VB ekonomi/NN nasional/NN ./.
+Bank/NNP Indonesia/NNP menargetkan/VB implementasi/NN Sistem/NN Kliring/NN Nasional/NN Bank/NNP Indonesia/NNP SKNBI/NN tuntas/NN pada/IN dua/CD ribu/CDA tujuh/CD untuk/IN seraus/NNP enam/CD wilayah/NNP kliring/NN di/IN Indonesia/NNP ./.
+Dengan/CON implementasi/NN SKNBI/NN untuk/IN wilayah/NNP kliring/NN Palembang/NNP ,/, Bengkulu/NN ,/, Bandar/NN Lampung/NN ,/, Palangkaraya/NN ,/, Jambi/NNP dan/CON Lhokseumawe/NN sekitar/NN Sembilan/CD puluh/CDA enam/CD persen/NN transaksi/NN kliring/NN telah/VB terhubung/NN secara/RB nasional/NN ./.
+Ia/NNP mengatakan/VB ,/, implementasi/NN pada/IN wilayah/NNP tersebut/VB merupakan/PRP rangkaian/NN terakhir/JJ wilayah/NNP kerja/NN kantor/NN BI/NNP yang/CON terhubung/NN dengan/CON jaringan/JJ SKNBI/NN ./.
+Berdasarkan/NNP data/JJ BI/NNP ,/, nilai/DT transaksi/NN harian/NN kliring/NN selama/JJ tahun/NN dua/CD ribu/CDA tujuh/CD mencapai/VB Rp/NNP empat/NN koma/NN delapan/CD triliun/NN ,/, dimana/VB empat/NN koma/NN lima/CD triliun/NN rupiah/CDA diproses/VB melalui/VB SKNBI/NN ./.
+Khusus/NNP untuk/IN enam/CD wilayah/NNP tersebut/VB transaksi/NN kliring/NN mencapai/VB seratus/NNP delapan/CD puluh/CDA Sembilan/CD koma/NN tujuh/CD miliar/VB rupiah/CDA dengan/CON volume/NN tujuh/CD ribu/CDA Sembilan/CD ratus/NN enam/CD belas/CD transaksi/NN setiap/CD hari/NN ./.
+Bagi/NNP perbankan/NN ,/, implementasi/NN SKNBI/NN akan/JJ menciptakan/VB efisiensi/NN biaya/RB pencetakan/NN dan/CON handling/NN penanganan/NN warkat/NN ,/, SDM/NN dan/CON peralatan/NN penunjang/NN lainnya/NN ./.
+Disamping/NNP itu/DT pengintegrasian/NN itu/DT juga/VB dapat/VB meningkatkan/VB efisiensi/NN pengelolaan/NN likuiditas/NN bank/NN ,/, karena/CON bank/NN tidak/VB lagi/VB memonitor/VB posisi/NN penyelesaian/NN transaksi/NN kliring/NN di/IN seluruh/JJ wilayah/NNP kliring/NN ,/, namun/NN cukup/VB memonitor/VB satu/CD posisi/NN kliring/NN secara/RB nasional/NN ./.
+Bank/NNP Indonesia/NNP menyadari/NN bahwa/CON kontribusi/NN operasional/VB transaksi/NN sistem/NN pembayaran/NN dalam/PRP mendukung/VB kelancaran/NN perekonomian/NN sangatlah/NN dominan/NN ,/, katanya/NN ./.
+PT/NNP Bank/NNP Internasional/NNP Indonesia/NNP BI/NNP mengumumkan/VB memperluas/NN jaringan/VB ATM-nya/NN dengan/CON bergabung/NN dalam/PRP jaringan/JJ ATM/NNP BERSAMA/NN ,/, suatu/CDI jaringan/JJ ATM/NNP yang/CON disediakan/VB oleh/VB PT/NNP Artajasa/NN Pembayaran/NNP Elektronis/NN Artajasa/NN ./.
+Melalui/NNP kerjasama/NN itu/DT ,/, BII/NN terhubung/NN dengan/CON sekitar/NN sebelas/CD ribu/CDA dua/CD ratus/NN ATM/NNP dari/IN enam/CD puluh/CDA tujuh/CD bank/NN yang/CON terhimpun/NN dalam/PRP jaringan/JJ ATM/NNP BERSAMA/NN ./.
+BII/NN sendiri/VB memiliki/VB lebih/JJ dari/IN tujuh/CD ratus/JJ ATM/NNP dan/CON juga/VB tergabung/VB dengan/CON kerjasama/NN jaringan/JJ ALTO/NN ,/, CIRRUS/NN dan/CON DBS/NN POSB/NN Bank/NNP Singapura/NNP ./.
+BI/NNP dalam/PRP menurunkan/VB suku/VB bunga/NN acuan/NN itu/DT terlalu/JJ bersikap/NN hati-hati/VB ,/, katanya/NN ./.
+Kostaman/NNP mengatakan/VB ,/, dengan/CON kebijakan/NN BI/NNP itu/DT mengakibatkan/VB perbankan/NN juga/NN kesulitan/NN untuk/IN segera/DT mengurangi/VB biaya/RP dana/CON cost/FW of/FW fund/FW ./.
+Menurut/NNP dia/VB ,/, bunga/NN kredit/JJ bank/NN saat/NN ini/DT masih/RB berkisar/VB antara/IN tiga/CD belas/CD koma/NN lima/CD hingga/NN empat/NN belas/CD persen/NN masih/RB terlalu/JJ tinggi/JJ ,/, karena/CON itu/DT bunga/NN kredit/JJ bank/NN yang/CON ./.
+ideal/JJ seharus/NN mencapai/VB dua/CD belas/CD persen/NN ./.
+PT/NNP Timah/NN Tbk/NNP akan/JJ membagikan/VB dividen/NN sebesar/CON lima/CD puluh/CDA persen/NN dari/IN laba/NN bersih/JJ dua/CD ribu/CDA enam/CD ./.
+Delapan/NNP bank/NN saat/NN ini/DT mengikuti/VB proses/NN tender/NN untuk/IN proyek/NN Electronic/NNP Toll/NN Collection/NN System/NN ETC/NN ./.
+Yakni/NN Bank/NNP Mandiri/NNP ,/, BNI/NNP ,/, BRI/NNP ,/, BCA/NNP ,/, Danamon/NNP ,/, Niaga/NNP ,/, Bank/NNP Mega/NNP dan/CON BII/NN ,/, kata/NN Dirut/NNP PT/NNP Jasa/NNP Marga/NNP ,/, Frans/NNP S/NNP Sunito/NNP di/IN Jakarta/NNP ,/, Jumat/NNP ./.
+Frans/NNP mengatakan/VB ,/, mereka/NN delapan/CD bank/NN telah/NN memenuhi/VB persyaratan/NN tender/NN proyek/NN ETC/NN Jasa/NNP Marga/NNP ./.
+Tentunya/NN kami/PRP akan/JJ mengambil/VB the/NN best/NN price/NN offer/VB atau/CON yang/CON memberikan/VB penawaran/NN dengan/CON harga/NN terbaik/JJ murah/NN dan/CON berkualitas/VB ,/, ujarnya/NN ./.
+ETC/NN semacam/NN kartu/NN prabayar/NN untuk/IN konsumen/VB jalan/NN tol/NN yang/CON dimaksudkan/VB untuk/IN mempercepat/VB transaksi/NN di/IN gardu/NN tol/NN ./.
+Pengguna/NN jalan/NN tol/NN tidak/VB perlu/RB lagi/NN kerepotan/NN membayar/VB dengan/CON uang/VB tunai/NN ,/, tapi/CON menggunakan/VB kartu/NN prabayar/NN yang/CON lebih/RB mudah/VB dan/CON praktis/NN ,/, kata/NN Frans/NNP ./.
+Frans/NNP juga/VB menjamin/VB tidak/VB akan/JJ ada/VB pengurangan/NN karyawan/NN dengan/CON diterapkannya/NN ETC/NN ./.
+Kelebihan/NN karyawan/NN tersebut/VB akan/JJ dialokasikan/VB pada/IN jalan/NN tol/NN yang/CON baru/JJ ./.
+Lagi/NNP pula/RP penerapan/NN ETC/NN ini/DT secara/RB bertahap/NN ,/, tidak/VB semua/CDI gerbang/NN tol/NN Jasa/NNP Marga/NNP ada/VB sistem/NN ETC-nya/NN ,/, tambahnya/NN ./.
+Menurut/NNP dia/VB ,/, selain/JJ membantu/VB dari/IN segi/CDI pendidikan/NN ,/, pihaknya/VB juga/VB aktif/JJ mendorong/VB studi-studi/NN pengembangan/NN kesetaraan/NN jender/NN ./.
+Lebih/NNP lanjut/NN PP/NNP itu/DT menjelaskan/VB ada/VB enam/CD kelompok/NN barang/JJ strategis/NN yang/CON dibebaskan/NN dari/IN pengenaan/NN PPN/NNP ./.
+Barang/NN modal/NN berupa/VB mesin/VB dan/CON peralatan/NN pabrik/NN baik/JJ dalam/PRP keadaan/NN terpasang/VB maupun/RP terlepas/VB tidak/VB termasuk/VB suku/VB cadang/NN ./.
+makanan/VB ternak/NN ,/, unggas/NN ,/, dan/CON ikan/NN dan/CON atau/CON bahan/NN baku/NN untuk/IN pembautan/NN pakan/NN ternak/NN ,/, unggas/NN ,/, dan/CON ikan/NN ./.
+barang/JJ hasil/NN pertanian/NN ./.
+bibit/NN dan/CON atau/CON benih/NN dari/IN dari/IN barang/JJ pertanian/NN ,/, perkebunan/NN ,/, kehutanan/VB ,/, peternakan/NN ,/, penangkaran/NN ,/, atau/CON perikanan/NN ./.
+air/NN bersih/JJ yang/CON dialirkan/NN melalui/VB pipa/NN oleh/VB perusahaan/NN air/NN minum/VB ,/, dan/CON listrik/NN kecuali/JJ untuk/IN perumahan/NN dengan/CON daya/NN di/IN atas/NN enam/CD ribu/CDA enam/CD ratus/NN watt/NN ./.
+Edgar/NN A/NNP Cua/NN saat/NN menyampaikan/VB laporan/NN Proyeksi/NN Pembangunan/NNP Asia/NNP ADO/NN dua/CD ribu/CDA tujuh/CD di/IN Jakarta/NNP ,/, Selasa/NNP ./.
+infrastruktur/VB secara/RB prosedural/NN dan/CON transparan/NN sehingga/JJ menarik/VB investasi/VB ./.
+Impor/NNP diperkirakan/VB akan/JJ mengikuti/VB pertambahan/NN kebutuhan/NN investasi/VB ,/, katanya/NN ./.
+Jadi/VB kalau/CON terjadi/VB apa-apa/NN dengan/CON empat/NN belas/CD BUMN/NNP tersebut/VB akan/JJ berdampak/VB langsung/RB terhadap/NN indeks/VB bursa/NN yang/CON langsung/RB terkoreksi/JJ ,/, ujarnya/NN ./.
+Ia/NNP mencontohkan/VB kasus/NN anjloknya/NN harga/NN saham/JJ PT/NNP Perusahaan/NN Gas/NNP Negara/NN PGN/NN Tbk/NNP ./.
+Jadi/VB saya/PRP itu/DT harus/MD hati-hati/VB betul/NN mengelola/VB dan/CON membuat/VB kebijakan/NN BUMN/NNP ,/, ujat/NN Sugiharto/NNP ./.
+Ketiganya/NN menguasai/VB sebesar/CON dua/CD puluh/CDA delapan/CD koma/NN no/DT dua/CD persen/NN pangsa/NN pasar/NN kapitalisasi/NN pasar/NN di/IN BEJ/NNP ./.
+Hal/NNP ini/DT ,/, kata/NN dia/VB ,/, terjadi/VB bila/VB investasi/VB di/IN pasar/NN keuangan/NN lainnya/NN tidak/VB tumbuh/VB lebih/JJ cepat/JJ ./.
+Kalau/CON tumbunya/NN lebih/JJ baik/JJ ,/, maka/CON kemungkinan/VB pembiayaan/NN perbankan/NN bisa/VB saja/RB berkurang/VB ,/, katanya/NN ./.
+Dia/NNP juga/VB mengatakan/VB ,/, kini/NN perbankan/NN dalam/PRP pertumbuhan/NN yang/CON membaik/VB ./.
+Miranda/NNP juga/VB menyatakan/VB ,/, BI/NNP tetap/RB optimis/VB pertumbuhan/NN ekonomi/NN tahun/NN dua/CD ribu/CDA delapan/CD tetap/RB diatas/NN enam/CD persen/NN ./.
+Target/NNP BI/NNP sedikit/JJ konservatif/NN dibandingkan/VB pemerintah/NN dengan/CON nilai/VB tengah/NN enam/CD koma/NN lima/CD persen/NN ,/, katanya/NN ./.
+Kami/NNP tidak/VB melihat/VB itu/DT subprime/RB mortgage/NN terjadi/VB di/IN Indonesia/NNP ./.
+Perbankan/NN kami/PRP lihat/NN datanya/NN masih/RB baik/JJ ,/, bahkan/CON membaik/VB ,/, NPL/NNP kredit/JJ bermasalah/VB turun/VB ./.
+Untuk/NNP itu/DT ,/, menurut/VB dia/VB ,/, itu/DT justru/VB menjadi/VB alasan/NN bagi/JJ BI/NNP untuk/IN menurunkan/VB suku/VB bunga/NN acuannya/NN ./.
+Sedangkan/NNP untuk/IN pertumbuhan/NN ekonomi/NN dua/CD ribu/CDA delapan/CD ,/, menurut/VB dia/VB ,/, tetap/RB akan/JJ tinggi/JJ meski/VB terjadi/VB penurunan/NN pertumbuhan/NN ekonomi/NN dunia/NN ./.
+Angka/NNP realisasi/JJ investasi/VB dua/CD ribu/CDA tujuh/CD ,/, ini/DT menunjukkan/VB buah/NN hasil/NN dari/IN perbaikan/NN iklim/VB investasi/VB di/IN tanah/NN air/NN ,/, katanya/NN ./.
+Kabar/NNP baik/JJ datang/VB di/IN pertengahan/NN tahun/NN dua/CD ribu/CDA dua/CD puluh/CDA bagi/JJ Inkubator/NN Bisnis/NNP Teknologi/NNP Universitas/NNP Tanjungpura/NNP (IBT/NN UNTAN)/NN ./.
+Asosiasi/NN Inkubator/NN Bisnis/NNP Indonesia/NNP (AIBI)/NN mendaulat/NN IBT/NN UNTAN/NNP sebagai/CON Koordinator/NN AIBI/NN Wilayah/NN Kalimantan/NNP ./.
+Adapun/NNP mandat/NN ini/DT diberikan/VB oleh/VB AIBI/NN karena/CON memandang/VB keberhasilan/NN dan/CON produktivitas/NN IBT/NN dalam/PRP mencetak/NN Perusahaan/NN Pemula/NN Berbasis/NN Teknologi/NNP (Startup)/NN ./.
+Serta/NNP kemampuan/VB untuk/IN menyelenggarakan/VB mentoring/NN kepada/NN tenant/NN IBT/NN maupun/NN training/NN bisnis/VB ./.
+AIBI/NN juga/NN memberikan/VB fasilitas/NN dalam/PRP meningkatkan/VB kapasitas/NN mentoring/NN kepada/NN manajemen/NN IBT/NN melalui/VB Pelatihan/NNP dalam/PRP format/NN Webinar/NN bertajuk/NN Highly/NN Effective/NN Mentoring/NN Skill/NN ./.
+Negara/NN di/IN seluruh/JJ dunia/NN termasuk/VB Indonesia/NNP saat/NN ini/DT sedang/JJ dilanda/NN suatu/CDI wabah/NN pandemi/NN yang/CON dikenal/VB dengan/CON nama/NN Covid-19/CD ./.
+Corona/NNP virus/NN disease/NN tahun/NN dua/CD ribu/CDA Sembilan/CD belas/CD (Covid-19)/NN merupakan/PRP suatu/CDI penyakit/NN akibat/JJ virus/NN corona/NN yang/CON menyebabkan/VB gangguan/NN sistem/NN pernapasan/NN ,/, pneumonia/NN akut/NN ,/, sampai/VB kematian/VB ./.
+Virus/NN baru/JJ ini/DT dapat/VB menyerang/NN siapa/WH saja/RB ,/, baik/JJ bayi/NN ,/, anak-anak/NN ,/, orang/CDA dewasa/NN ,/, dan/CON juga/VB lansia/NN ./.
+Mahasiswa/NNP Profesi/NNP Ners/NN Keperawatan/NN UNTAN/NNP melakukan/VB kegiatan/NN bakti/NN sosial/NN dengan/CON tema/NN Ramadhan/NNP Berbagi/NN ./.
+Kegiatan/NN ini/DT merupakan/PRP salah/JJ satu/CD bentuk/NN kepedulian/VB mahasiswa/NN profesi/NN Ners/NN Keperawatan/NN Untan/NNP terhadap/RB masyarakat/NN yang/CON kurang/VB mampu/JJ ./.
+Wujud/NN kepedulian/VB yang/CON akan/JJ diberikan/VB tidak/VB hanya/VB dalam/PRP bentuk/NN sumbangan/NN tapi/CON juga/VB berupa/VB unsur/NN edukatif/NN mengenai/VB kesehatan/NN ./.
+Kegiatan/NN ini/DT bertujuan/VB melakukan/VB pengabdian/NN pada/IN masyarakat/NN selaku/NN mahasiswa/NN kesehatan/NN khususnya/NN pada/IN bidang/NN keperawatan/NN komunitas/NN ./.
+Ramadhan/NNP Berbagi/NN merupakan/PRP kegiatan/NN pembagian/NN sembako/VB gratis/JJ yang/CON terdiri/VB dari/IN beras/VB ,/, minyak/NN makan/NN ,/, gula/NN pasir/NN ,/, dan/CON beberapa/VB alat/NN pelindung/NN diri/NN dasar/JJ seperti/IN Hansanitizer/NN dan/CON Masker/NN ./.
+Pembelian/NN sembako/VB berasal/VB dari/IN dana/CON yang/CON dikumpulkan/NN panitia/NN dengan/CON melakukan/VB penggalangan/NN dana/CON ,/, dan/CON sumbangan/NN berupa/VB alat/NN pelindung/NN diri/NN dasar/JJ ./.
+Universitas/NNP Tanjungpura/NNP (Untan)/NN menerima/VB Bantuan/NNP sepuluh/NN ribu/CDA Masker/NN dari/IN Guangxi/NN University/NN for/NNP Nationalities/NN ./.
+Bantuan/NNP ini/DT diperuntukan/VB Rumah/NN Sakit/NNP Untan/NNP dan/CON Satgas/NN Pencegahan/NN Covid/NN 19/CD di/IN Universitas/NNP Tanjungpura/NNP dalam/PRP rangka/NN dukungan/NN penanganan/NN wabah/NN Covid/NN 19/CD ./.
+Webinar/NN yang/CON dilaksanakan/VB erat/NN kaitannya/PRP dengan/CON Big/NNP Data/NNP ./.
+Big/NNP Data/NNP saat/NN ini/DT menjadi/VB topik/NN yang/CON sangat/PRP sering/NNP diperbincangkan/NN ./.
+Mengingat/NN perubahan/NN zaman/NN yang/CON sudah/NN menjadi/VB era/NN informasi/VB ./.
+Maka/NNP akan/JJ banyak/JJ sekali/CDI data/JJ yang/CON harus/MD diolah/NN ./.
+Namun/NNP dalam/PRP mengolah/NN data/JJ tersebut/VB butuh/JJ teknologi/VB yang/CON namanya/NN Machine/NN Learning/NN ./.
+Tentu/NN Machine/NN Learning/NN sangat/PRP penting/JJ bagi/JJ perkembangan/NN teknologi/VB di/IN Indonesia/NNP bahkan/CON dunia/NN ./.
+karena/CON berbagai/VB manfaatnya/NN ,/, seperti/IN untuk/IN membantu/VB menganalisa/VB data/VB ,/, mengambil/VB suatu/CDI keputusan/NN ,/, dan/CON meramalkan/NN masa/NN depan/PRP ./.
+Pak/NN Arif/NN akan/JJ memulai/VB dengan/CON menyampaikan/VB teori/NN dan/CON dilanjutkan/VB oleh/VB Pak/NN Fal/NN yang/CON akan/JJ menyampaikan/VB praktik/NN ./.
+Harapannya/NN materi/NN seminar/NN yang/CON disampaikan/VB akan/JJ dapat/VB menjadi/VB insight/NN bagi/JJ peserta/NN yang/CON mengikuti/VB webinar/NN ini/DT ./.
+Universitas/NNP Tanjungpura/NNP saat/NN ini/DT telah/VB menerapkan/VB E-learning/NN yang/CON merupakan/NN sistem/NN pembelajaran/NN dengan/CON dilaksanakan/VB tanpa/RB harus/MD bertatap/NN muka/NN dengan/CON secara/RB langsung/RB menjadi/VB salah/JJ satu/CD media/JJ pembelajaran/NN di/IN Untan/NNP ./.
+E-Learning/NN dikelola/VB oleh/VB Pusat/NN E-learning/NN Untan/NNP berada/VB di/IN bawah/VB lembaga/VB pengembangan/NN pembelajaran/NN dan/CON penjaminan/NN mutu/NN Untan/NNP ./.
+Persoalan/NN lingkungan/NN bukan/NEG semata/NN tanggungjawab/NN perorangan/NN ,/, melainkan/VB tanggungjawab/NN bersama/VB ./.
+Oleh/NNP sebab/NN itu/DT ,/, diperlukan/VB semua/CDI pihak/NN untuk/IN terlibat/VB ./.
+Di/IN bibir/NN Pantai/NN Wisata/NN Keramat/NN Kepiting/NN ,/, Kelurahan/NN Pasir/NNP Wan/NN Salim/NNP ,/, Kecamatan/NNP Mempawah/NNP Timur/NNP ,/, Kabupaten/NNP Mempawah/NNP ,/, Provinsi/NNP Kalimantan/NNP Barat/PRP ./.
+Misalnya/NNP ada/VB ratusan/NN bibit/NN tanaman/NN berbagai/VB jenis/NN ,/, salah/JJ satunya/CD mangrove/NN ditanam/NN ./.
+Hal/NNP itu/DT dilakukan/VB demi/IN mencegah/VB abrasi/NN air/NN laut/NN ./.
+Upaya/NNP pemerintah/NN Kabupaten/NNP Mempawah/NNP terus/RB menerus/VB akan/JJ melaksanakan/VB langkah/NN agar/RB kegiatan/NN yang/CON sudah/NN kita/PRP lakukan/VB ini/DT bisa/VB kita/PRP tingkatkan/NN dan/CON kita/PRP dukung/VB lagi/VB semaksimal/NN mungkin/RB ./.
+Sehingga/NNP apa/WH yang/CON menjadi/VB program/NN pemerintah/NN terus/RB menerus/VB secara/RB berkesinambungan/VB dan/CON terjaga/NN ./.
+Ada/NN dua/CD ratus/NN pohon/NN berbagai/VB jenis/NN yang/CON ditanam/NN ,/, diantaranya/VB mangga/NN matoa/NN dan/CON sejenis/NN tanaman/NN pohon/NN buah/NN buahan/NN serta/NNP mangrove/NN ./.
+Luar/PRP biasa/RB untuk/IN komunitas/NN Sangsakha/NN ini/DT ./.
+Kami/NNP dari/IN BWSK/NN satu/CD pasti/NN mendorong/VB terus/RB langkah/NN aksi/JJ bersamaa/NN tetap/RB istikomah/NN untuk/IN melestarikan/NN alam/NN ini/DT ./.
+Kuncoro/NNP menyebut/NN ,/, dalam/PRP aksi/JJ nyata/JJ ,/, penanaman/NN itu/DT ada/VB tiga/CD puluh/CDA komunitas/NN yang/CON ikut/VB ./.
+Dia/NNP berharap/VB kedepan/NN ,/, setiap/CD komunitas/NN punya/VB area/NN ./.
+Pendampingan/NN kita/PRP BWSK/NN satu/CD dalam/PRP kontek/NN pengabdaian/NN pada/IN masyarakat/NN yang/CON nantinya/VB tujuanya/NN untuk/IN menjaidi/NN agen/NN perubahan/NN di/IN mana/VB utamanya/NN daerahnya/NN itu/DT ./.
+Tahun/NNP depan/PRP kita/PRP mulai/VB ,/, tapi/CON tahun/NN ini/DT kita/PRP akan/JJ turun/VB survey/NN sudah/NN disepakati/VB di/IN daerah/NN Pantai/NN Mempawah/NNP ./.
+Sinergitas/NN diperlukan/VB dikarenakan/VB seiring/VB dengan/CON semakin/RB meningkatnya/VB berbagai/VB permasalahan/NN dalam/PRP pengelolaan/NN sungai/NN ./.
+Diperlukan/NN kolaborasi/NN dan/CON peran/NN aktif/JJ berbagai/VB pihak/NN dalam/PRP memelihara/NN sungai/NN ./.
+Kegiatan/NN ini/DT diharapkan/VB menjadi/VB ajang/NN diskusi/VB serta/NNP berbagi/VB pengalaman/NN antar/VB stakeholder/NN yang/CON berkaitan/VB dengan/CON pengelolaan/NN sungai/NN ./.
+Di/IN negara/NN tropis/NN termasuk/VB Indonesia/NNP ,/, air/NN sangat/PRP identik/NN dengan/CON pohon/NN ./.
+Dengan/CON menanam/VB pohon/NN berarti/VB kita/PRP juga/VB menyelamatkan/NN air/NN ./.
+Dia/NNP menjelaskan/VB ,/, di/IN Kalbar/NNP khususnya/CON di/IN sebagian/RB daerah/NN mengalami/VB abrasi/NN yang/CON sangat/PRP menghawatirkan/NN ./.
+Itu/DT disebabkan/VB banyak/JJ tanah/NN masyarakat/NN yang/CON hilang/JJ dan/CON menjadi/VB lautan/NN ./.
+Ini/DT sudah/NN terjadi/VB sejak/NN tahun/NN tujuh/CD puluhan/NN ./.
+Mangrove/NN yang/CON ada/VB pada/IN saat/NN ini/DT sekitar/NN tahun/NN dua/CD ribu/CDA ./.
+Saat/NNP ini/DT ,/, lanjut/RB dia/VB ,/, dengan/CON masyarakat/NN melakukan/VB percepatan/NN pembibitan/NN menanam/VB empat/NN ribu/CDA bibit/NN mangrove/NN ./.
+Sebab/NNP ,/, hal/VB itu/DT salah/JJ satu/CD cara/NN agar/RB pesisir/NN Kabupaten/NNP Mempawah/NNP supaya/CON terjaga/NN garis/NN pantainya/NN ./.
+Mempawah/NNP Mangrove/NN Conservation/NN telah/VB melakukan/VB kegiatan/NN sejak/NN dua/CD ribu/CDA sebelas/CD sampai/VB saat/NN ini/DT sekitar/NN sembilan/CD tahun/NN ./.
+Pesisir/NN yang/CON dulunya/NN tidak/VB ada/VB mangrove/NN sekarang/RB sudah/NN semakin/RB lestari/NN ./.
+Makanya/NN kami/PRP mengajak/VB para/VB kawan-kawan/NN jurnalis/NN ,/, komunitas/NN ,/, masyarakat/NN agar/RB lebih/JJ peduli/VB terhadap/NN keadaan/NN pesisir/NN kita/PRP ./.
+Tidak/NNP hanya/VB pesisir/NN namun/NN juga/NN di/IN daerah/NN daratan/NN agar/RB apa/WH agar/RB hutan/NN ini/DT semakin/RB lestari/NN ./.
+Banjir/NNP hebat/NN yang/CON terjadi/VB beberapa/CDI hari/NN lalu/CON ,/, yang/CON melanda/VB Kota/NNP Putussibau/NNP dan/CON sekitarnya/NN menyisakan/VB banyak/JJ cerita/NN ,/, terutama/RB cerita/NN pilu/NN ./.
+Karena/NNP tidak/VB sedikit/JJ harta/NN benda/NN yang/CON hanyut/NN dan/CON terendam/NN sehingga/JJ mengalami/VB kerusakan/NN ./.
+Dikatakan/NNP Djusanudin/NN ,/, wabah/NN ganda/JJ yang/CON dihadapi/VB ,/, yakni/RP Covid-19/CD dan/CON banjir/VB parah/NN telah/NN melanda/VB Kota/NNP Putussibau/NNP ./.
+Oleh/NNP sebab/NN itu/DT ,/, sulit/JJ untuk/IN melibatkan/NN siswa/NN secara/RB langsung/RB untuk/IN membantu/VB membersikan/NN sekolah/NN ./.
+Karena/NNP ,/, selama/VB ini/DT pun/VB siswa/NN belajar/VB dengan/CON media/JJ daring/NN dalam/PRP jaringan/JJ ./.
+Sehingga/NNP pihak/NN sekolah/NN pun/VB mengarahkan/VB agar/RB guru/NN langsung/RB yang/CON turun/VB bergotong-royong/NN untuk/IN membersihkan/VB sekolah/NN ./.
+Saya/NNP mengucapkan/NN terimakasih/NN atas/NN kerjasama/NN dan/CON keikhlasan/NN bapak/NN dan/CON ibu/NN guru/NN beserta/VB staf/NN SMA/NNP Negeri/NN 1/NN Putussibau/NNP yang/CON telah/VB tanpa/RB pamrih/NN bergotong-royong/NN membersihkan/VB sekolah/NN ./.
+Semoga/NNP apa/WH yang/CON telah/VB kita/PRP lakukan/VB bersama/VB ini/DT menjadi/VB pahala/NN dan/CON keberkahan/NN kita/PRP semua/VB ./.
+Rapat/NNP Pleno/NN Terbuka/NN Pengundian/NN dan/CON Penetapan/NN nomor/NN urut/VB Pasangan/NN Calon/NN Paslon/NN Bupati/NNP dan/CON Wakil/NNP Bupati/NNP Kapuas/NNP Hulu/NNP ./.
+Untuk/NNP Perhelatan/NN Pemilihan/NN Kepala/NN Daerah/NN (Pilkada)/NN serentak/NNP di/IN Kabupaten/NNP Kapuas/NNP Hulu/NNP ,/, Provinsi/NNP Kalimantan/NNP Barat/PRP ,/, telah/VB usai/RB dilaksanakan/VB ./.
+Kegiatan/NN yang/CON dilaksanakan/VB di/IN Aula/NNP Hotel/NNP Grand/NN Banana/NN Putussibau/NNP ,/, disiarkan/NN secara/RB langsung/RB di/IN media/JJ sosial/NN Facebook/NN ./.
+Adapun/NNP tujuan/NN Live/NN Streaming/NN on/FW Facebook/NN itu/DT ,/, agar/RB warga/NN masyarakat/NN dapat/VB menyaksikannya/NN secara/RB langsung/RB melalui/VB media/JJ sosial/NN Facebook/NN ./.
+karena/CON pengunjung/NN dibatasi/VB untuk/IN menyaksikannya/NN secara/RB langsung/RB di/IN tempat/NN kegiatan/NN ,/, mengingat/VB masih/RB dalam/PRP situasi/PRP dan/CON kondisi/NN Pandemi/NNP Covid-19/CD ./.
+Ada/NN tiga/CD Paslon/NN yang/CON secara/RB resmi/JJ ditetapkan/VB oleh/VB KPU/NNP Kapuas/NNP Hulu/NNP sebagai/CON peserta/NN Pilkada/NNP di/IN Daerah/NN tersebut/VB ./.
+Tiga/NNP Paslon/NN itu/DT yakni/RP Hamdi/NN Jafar/NN -/SYM Jhon/NN Itang/NN OE/NN ,/, Baiduri/NNP -/SYM Rufina/NN Sedang/NN dan/CON Fransiskus/NNP Dian/NN -/SYM Wahyudi/NN Hidayat/NN ./.
+Ketua/NNP KPU/NNP Kabupaten/NNP Kapuas/NNP Hulu/NNP ,/, Ahmad/NNP Yani/NN ,/, menyatakan/VB ,/, ketiga/CD Paslon/NN telah/NN melaksanakan/VB pengundian/NN ,/, dan/CON pada/IN masing-masing/NN Paslon/NN sudah/NN ditetapkan/VB nomor/NN urut/VB ./.
+Paslon/NN Hamdi/NN Jafar/NN -/SYM Jhon/NN Itang/NN OE/NN ,/, mendapat/VB nomor/NN urut/VB satu/CD ./.
+Sedangkan/NNP Baiduri/NNP �/NN Rufina/NN ,/, mendapat/VB nomor/NN urut/VB dua/CD ./.
+Adapun/NNP Fransiskus/NNP Diaan/NN -/SYM Wahyudi/NN Hidayat/NN ,/, mendapat/VB nomor/NN urut/VB tiga/CD ./.
+Dalam/PRP masa/NN kampanye/NN nantinya/VB ,/, masing-masing/VB Paslon/NN sudah/NN sepakat/VB untuk/IN mematuhi/VB protokol/NN kesehatan/NN ./.
+Dimana/NNP mereka/PRP semua/VB sudah/NN menandatangani/NN fakta/NN integritas/NN terkait/VB untuk/IN mematuhi/VB protokol/NN kesehatan/NN ./.
+Artinya/NN masing-masing/NN Paslon/NN telah/VB setuju/NN untuk/IN mematuhi/VB protokol/NN kesehatan/NN Covid-19/CD selama/JJ tahapan/NN kampanye/NN ./.
+ebih/NN lanjut/NN Yani/NN mengatakan/VB ,/, terkait/VB sumbangan/NN dana/CON kampanye/NN dari/IN perseorangan/NN ,/, dibatasi/VB ./.
+Dimana/NNP maskimal/NN sebesar/CON tujuh/CD puluh/CDA lima/CD juta/CDA per/CD orang/CDA penyumbang/NN yang/CON wajib/NN disetorkan/NN melalui/VB Rekening/NNP Khusus/NNP Dana/NNP Kampanye/NN RKDK/NN ./.
+Sedangkan/NNP untuk/IN dana/CON kampanye/NN yang/CON bersumber/VB dari/IN badan/NN usaha/RB ,/, yang/CON berbadan/NN hukum/NN yakni/RP masing-masing/NN sebesar/CD tujuh/CD ratus/NN lima/CD puluh/CDA juta/CDA rupiah/CDA ./.
+Sumbangan/NN dari/IN Partai/NNP Politik/NNP juga/VB maksimal/RB sebesar/CON tujuh/CD ratus/NN lima/CD puluh/CDA juta/CDA rupiah/CDA ./.
+Untuk/NNP setiap/CD tahapan/NN Pilkada/NNP saat/NN ini/DT ,/, mengacu/VB pada/IN Peraturan/NNP KPU/NNP PKPU/NN ./.
+yang/CON mengatur/NN pemilihan/NN di/IN masa/NN pandemi/NN Covid-19/CD yakni/RP PKPU/NN Nomor/NNP enam/CD tahun/NN dua/CD ribu/CDA dua/CD puluh/CDA ./.
+Dimana/NNP terakhir/JJ telah/CON diubah/NN dengan/CON PKPU/NN Nomor/NNP tiga/CD belas/CD Tahun/NNP dua/CD ribu/CDA dua/CD puluh/CDA ./.
+Perubahan/NNP PKPU/NN Nomor/NNP enam/CD Tahun/NNP dua/CD ribu/CDA dua/CD puluh/CDA ke/IN PKPU/NN Nomor/NNP tiga/CD belas/CD Tahun/NNP dua/CD ribu/CDA dua/CD puluh/CDA pada/IN pasal/NN lima/CD ,/, mengatur/NN tentang/RP penerapan/NN prorokol/NN kesehatan/NN Prokes/NN Covid-19/CD ./.
+Jadi/VB ,/, selama/VB masa/NN kampanye/NN maupun/NN selama/JJ tahapan/NN Pilkada/NNP ,/, baik/JJ Paslon/NN atau/CON terhadap/NN pendukungnya/NN wajib/NN menerapkan/VB dan/CON mematuhi/VB protokol/NN kesehatan/NN Covid-19/CD ./.
+Perkembangan/NN sektor/NN riil/JJ di/IN bulan/CDA Juni/NNP dua/CD ribu/CDA tujuh/CD sangat/PRP positif/NN ./.
+Pertumbuhan/NNP Penerimaan/NNP Perpajakan/NNP year/JJ on/FW year/JJ sekitar/NN lima/CD puluh/CDA persen/NN dan/CON ./.
+secara/RB keseluruhan/NN Penerimaan/NNP Pajak/NNP Semester/NN pertama/CD tumbuh/VB dua/CD puluh/CDA koma/VB delapan/CD persen/NN ,/, katanya/NN menjelaskan/VB ./.
+Secara/NNP keseluruhan/NN ,/, ekspor/NN dan/CON impor/NN pada/IN semester/NN pertama/CD tumbuh/VB lima/CD belas/CD dan/CON dua/CD belas/CD persen/NN ,/, katanya/NN ./.
+Bank/NNP Indonesia/NNP meperkirakan/VB Neraca/NNP Pembayaran/NNP Indonesia/NNP NPI/NNP akan/JJ mengalami/VB surplus/NN sebesar/CON tiga/CD belas/CD koma/NN empat/NN miliar/VB dolar/RB AS/NNP pada/IN keseluruhan/NN tahun/NN dua/CD ribu/CDA tujuh/CD ./.
+Surplus/NNP tersebut/VB didukung/VB oleh/VB surplus/NN pada/IN neraca/VB transaksi/NN berjalan/VB sebesar/CON delapan/CD koma/NN sembilan/CD miliar/VB dolar/RB AS/NNP dan/CON surplus/NN neraca/VB modal/NN dan/CON finansial/JJ sebesar/CON empat/NN koma/NN sembilan/CD miliar/VB dolar/RB AS/NNP ,/, kata/NN Gubernur/NNP Bank/NNP Indonesia/NNP Burhanudin/NNP Abdullah/NNP pada/IN rapat/NN kerja/NN dengan/CON DPR/NNP RI/NNP Komisi/NNP sembilan/CD di/IN Jakarta/NNP ,/, Jumat/NNP dinihari/NN ./.
+Sementara/NNP itu/DT ,/, untuk/IN paruh/NN pertama/CD dua/CD ribu/CDA tujuh/CD ini/DT ,/, ia/NN mengatakan/VB NPI/NNP surplus/NN sebesar/CON tiga/CD koma/NN tujuh/CD miliar/VB dolar/RB AS/NNP yang/CON didorong/VB oleh/VB perbaikan/NN kinerja/NN neraca/VB modal/NN finansial/JJ ./.
+Meski/NNP pada/IN kuartal/NN kedua/CD dua/CD ribu/CDA tujuh/CD ini/DT turun/VB dua/CD puluh/CDA enam/CD persen/NN dibandingkan/VB kuartal/NN pertama/CD dua/CD ribu/CDA tujuh/CD ,/, namun/NN neraca/VB modal/NN finansial/JJ tetap/RB surplus/NN sebesar/CD satu/CD koma/NN tujuh/CD miliar/VB dolar/RB AS/NNP ./.
+Perbaikan/NN neraca/VB modal/NN finansial/JJ didorong/VB oleh/VB aliran/NN modal/NN asing/NN dalam/PRP bentuk/NN investasi/VB portiofolio/NN ,/, katanya/NN ./.
+Gubernur/NNP Bank/NNP Indonesia/NNP BI/NNP Burhanudin/NNP Abdullah/NNP ,/, mengatakan/VB saat/NN ini/DT Indonesia/NNP belum/VB sembuh/NN akibat/JJ krisis/JJ keuangan/NN yang/CON terjadi/VB sepuluh/NN tahun/NN lalu/CON ./.
+Hal/NNP ini/DT tercermin/VB dari/IN adanya/VB anomali/VB antara/NN BI/NNP rate/NN dengan/CON suku/JJ bunga/NN deposito/NN yang/CON terjadi/VB saat/NN ini/DT di/IN Indonesia/NNP ,/, demikian/VB kata/NN Gubernur/NNP BI/NNP dalam/PRP Rapat/NNP Kerja/NNP dengan/CON Komis/NN sembilan/CD DPR/NNP di/IN Jakarta/NNP ,/, Kamis/NNP malam/NN hingga/NN Jumat/NNP dinihari/NN ./.
+Ia/NNP mengatakan/VB anomali/VB tersebut/VB terjadi/VB dimana/WH BI/NNP rate/NN sebesar/CON delapan/CD koma/NN dua/CD puluh/CDA lima/CD persen/NN lebih/JJ tinggi/JJ dibandingkan/VB dengan/CON suku/JJ bunga/NN deposito/NN sebesar/CD lima/CD persen/NN ./.
+Mestinya/NN BI/NNP rate/NN lebih/JJ rendah/JJ dibandingkan/VB suku/VB bunga/NN deposito/NN ,/, katanya/NN ./.
+Ia/NNP mengatakan/VB ,/, untuk/IN mengatasi/VB masalah/NN tersebut/VB ,/, BI/NNP tidak/VB bisa/VB serta/NNP merta/PRP menurunkan/VB tingkat/NN bunganya/NN secara/RB drastis/NN ./.
+Secara/NNP bertahap/NN kita/PRP coba/FW turunkan/NN dengan/CON tetap/RB menjaga/VB stabilitas/NN ./.
+Dan/CON itu/DT level/VB BI/NNP rate/NN yang/CON lebih/RB rendah/JJ dibandingkan/VB suku/VB bunga/NN deposito/NN bakal/NN tercapai/VB di/IN masa/NN yang/CON akan/JJ datang/VB secara/RB bertahap/NN katanya/NN ./.
+Sebab/NNP ,/, menurutnya/VB ,/, penurunan/NN secara/RB drastis/NN BI/NNP rate/NN pada/IN level/JJ yang/CON lebih/JJ rendah/JJ dibandingkan/VB suku/VB bunga/NN deposito/NN justru/VB akan/JJ menggangu/NN kinerja/NN ekonomi/NN akibat/JJ fluktuasi/NN yang/CON terlalu/JJ besar/JJ ./.
+Untuk/NNP itu/DT ,/, ia/NN mengatkan/NN ,/, saat/NN ini/DT pihaknya/VB menurunkan/VB tingkat/VB BI/NNP rate/NN secara/RB bertahap/NN sebesar/CD nol/NN koma/NN dua/CD puluh/CDA lima/CD persen/NN ./.
+Mengapa/NN diturunkan/NN nol/NN koma/NN dua/CD puluh/CDA lima/CD persen/NN setiap/CD kali/NN penurunan/NN karena/CON adanya/VB unsur/NN kehati-hatian/NN ,/, katanya/NN ./.
+PT/NNP Pemeringkat/NN Efek/NNP Indonesia/NNP Pefindo/NNP memberikan/VB rating/JJ A-/NN kepada/NN PT/NNP Bakrie/NNP Telecom/NNP dan/CON obligasi/VB pertama/CD tahun/NN dua/CD ribu/CDA tujuh/CD senilai/NN tujuh/CD ratus/NN lima/CD puluh/CDA miliar/VB rupiah/CDA yang/CON digunakan/VB untuk/IN sebagian/RB belanja/NN modal/NN perseroan/NN ./.
+Peringkat/NN tersebut/VB mencerminkan/VB industri/VB telekomunikasi/NN yang/CON menguntungkan/NN ,/, model/NN bisnis/VB yang/CON potensial/VB ,/, kata/NN analis/NN dari/IN Pefindo/NNP Niken/NN Indriarsih/NN dan/CON Salyadi/NN Saputra/NN kepada/NN BEJ/NNP ,/, Jumat/NNP ./.
+Namun/NNP peringkat/NN tersebut/VB diperlemah/VB oleh/VB agresifnya/NN ekspansi/NN perusahaan/NN yang/CON akan/JJ mengarah/VB pada/IN tingginya/NN leverage/JJ keuangan/NN dan/CON potensi/NN tingginya/NN resiko/VB perusahaan/NN terhadap/NN fluktuasi/NN mata/NN uang/VB asing/VB maupun/RP persaingan/NN di/IN industri/VB yang/CON makin/RB ketat/VB ./.
+Tim/NNP Ekonomi/NN menyatakan/VB sektor/NN riil/JJ hingga/NN akhir/JJ tahun/NN dua/CD ribu/CDA tujuh/CD diperkirakan/VB menunjukkan/VB pertumbuhan/NN positif/NN ,/, menyusul/VB membaiknya/VB gambaran/NN sektor/NN ini/DT hingga/NN semester/NN pertama/CD tahun/NN ini/DT ./.
+Sektor/NNP riil/JJ sudah/NN mulai/VB bangkit/NN yang/CON tercermin/VB dari/IN berbagai/VB indikator/VB baik/JJ makro/CON maupun/NN per/CD sektor/NN ,/, kata/NN Menko/NNP Perekonomian/NNP Boediono/NN ,/, kepada/NN pers/NN usai/RB Rapat/NNP Terbatas/NN dengan/CON Presiden/NNP Susilo/NNP Bambang/NNP Yudhoyono/NNP ,/, di/IN Kantor/NN Presiden/NNP ,/, Jumat/NNP sore/NN ./.
+Menurut/NNP dia/VB ,/, dengan/CON pertumbuhan/NN sektor/NN riil/JJ tersebut/VB diprediksi/VB dapat/VB mendorong/VB pertumbuhan/NN Pendapatan/NNP Domestik/NN Bruto/NNP PDB/NNP selama/JJ kuartal/NN kedua/CD ,/, naik/JJ dibanding/VB kuartal/NN pertama/CD ./.
+Sementara/NNP itu/DT ,/, Menteri/NN Keuangan/NNP Sri/NNP Mulyani/NNP menjelaskan/VB ,/, indikasi/VB membaiknya/VB sektor/NN riil/JJ juga/NN terlihat/VB dari/IN peningkatan/NN penerimaan/NN Pajak/NNP Penghasilan/NNP PPh/NNP dan/CON Pajak/NNP Pertambahan/NN Nilai/NNP PPN/NNP yang/CON hingga/NN akhir/JJ tahun/NN bisa/VB diperkirakan/VB lebih/JJ tinggi/JJ dari/IN rata-rata/RB tingkat/NN inflasi/VB enam/CD persen/NN ./.
+Kalau/CON didasarkan/NN sektor/NN ,/, maka/VB hampir/VB semua/CDI sektor/NN memiliki/VB pertumbuhan/NN PPh/NNP dan/CON PPN/NNP yang/CON kuat/JJ ,/, paling/RB tidak/VB menunjukkan/VB kenaikan/VB double/RB digit/VB pada/IN dua/CD ribu/CDA tujuh/CD ,/, ujar/NN Sri/NNP Mulyani/NNP ./.
+Sektor-sektor/NN lain/NN yang/CON berhubungan/NN dengan/CON sektor/NN primer/NN misalnya/NN ,/, pertanian/NN ,/, pertambangan/NN ,/, dan/CON pertambangan/NN migas/VB maupun/RP non/NN migas/VB juga/VB menunjukkan/VB pertumbuhan/NN yang/CON baik/JJ ,/, atau/CON bahkan/CON di/IN atas/NN sepuluh/NN persen/NN ./.
